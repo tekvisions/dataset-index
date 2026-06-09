@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-09T05:34:14.929288+00:00",
+ "generated_at": "2026-06-09T05:44:18.085190+00:00",
  "count": 249,
  "categories": [
   {
@@ -76,7 +76,7 @@
    "url": "https://github.com/dolthub/dolt",
    "owner": "dolthub",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42156961?v=4",
-   "stars": 23344,
+   "stars": 23345,
    "forks": 798,
    "open_issues": 577,
    "language": "Go",

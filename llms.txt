@@ -3,13 +3,13 @@
 > The living index of data-centric AI tooling — data labeling & annotation, synthetic
 > data, curation & quality, augmentation, and dataset frameworks — ranked daily by GitHub momentum.
 
-Updated: 2026-06-09T05:34:14.929288+00:00
+Updated: 2026-06-09T05:44:18.085190+00:00
 Tools indexed: 249
 
 ## Top data-centric AI tools by momentum
 
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) — momentum 87, ⭐27547 — Labeling & Annotation — Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [dolthub/dolt](https://github.com/dolthub/dolt) — momentum 86, ⭐23344 — Versioning & Frameworks — Dolt – Git for Data
+- [dolthub/dolt](https://github.com/dolthub/dolt) — momentum 86, ⭐23345 — Versioning & Frameworks — Dolt – Git for Data
 - [huggingface/datasets](https://github.com/huggingface/datasets) — momentum 86, ⭐21602 — Collections & Hubs — 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data m
 - [joke2k/faker](https://github.com/joke2k/faker) — momentum 85, ⭐19264 — Synthetic Data — Faker is a Python package that generates fake data for you.
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) — momentum 84, ⭐16009 — Labeling & Annotation — Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datase
