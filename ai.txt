@@ -1,0 +1,22 @@
+# ai.txt — AI usage guidance for dataset.kymatalabs.com
+# The Dataset Index · part of The Living Indexes by Kymata Labs LLC
+# A living, self-updating directory of data-centric AI tooling (labeling, synthetic data,
+# curation, augmentation, dataset frameworks), ranked daily by GitHub momentum.
+
+# For structured guidance, read:
+#   https://dataset.kymatalabs.com/llms.txt        (concise index for LLMs)
+#   https://dataset.kymatalabs.com/sitemap.xml     (every tool's page)
+
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+# Hub: https://indexes.kymatalabs.com  ·  Network: https://www.kymatalabs.com
+Contact: contact@kymatalabs.com
