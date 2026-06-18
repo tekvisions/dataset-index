@@ -3,48 +3,48 @@
 > The living index of data-centric AI tooling — data labeling & annotation, synthetic
 > data, curation & quality, augmentation, and dataset frameworks — ranked daily by GitHub momentum.
 
-Updated: 2026-06-17T13:04:19.888042+00:00
+Updated: 2026-06-18T12:40:54.589261+00:00
 Tools indexed: 249
 
 ## Top data-centric AI tools by momentum
 
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) — momentum 87, ⭐27628 — Labeling & Annotation — Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [dolthub/dolt](https://github.com/dolthub/dolt) — momentum 86, ⭐23463 — Versioning & Frameworks — Dolt – Git for Data
-- [huggingface/datasets](https://github.com/huggingface/datasets) — momentum 86, ⭐21629 — Collections & Hubs — 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data m
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) — momentum 87, ⭐27633 — Labeling & Annotation — Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [dolthub/dolt](https://github.com/dolthub/dolt) — momentum 86, ⭐23498 — Versioning & Frameworks — Dolt – Git for Data
+- [huggingface/datasets](https://github.com/huggingface/datasets) — momentum 86, ⭐21631 — Collections & Hubs — 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data m
 - [joke2k/faker](https://github.com/joke2k/faker) — momentum 84, ⭐19277 — Synthetic Data — Faker is a Python package that generates fake data for you.
-- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) — momentum 84, ⭐19170 — Synthetic Data — Code for Machine Learning for Algorithmic Trading, 2nd edition.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) — momentum 84, ⭐16087 — Labeling & Annotation — Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datase
-- [treeverse/dvc](https://github.com/treeverse/dvc) — momentum 84, ⭐15680 — Versioning & Frameworks — 🦉 Data Versioning and ML Experiments
-- [simonw/datasette](https://github.com/simonw/datasette) — momentum 82, ⭐11200 — Versioning & Frameworks — An open source multi-tool for exploring and publishing data
-- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) — momentum 82, ⭐10799 — Versioning & Frameworks — Refine high-quality datasets and visual AI models
-- [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) — momentum 79, ⭐6550 — Synthetic Data — Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) — momentum 84, ⭐19187 — Synthetic Data — Code for Machine Learning for Algorithmic Trading, 2nd edition.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) — momentum 84, ⭐16096 — Labeling & Annotation — Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datase
+- [treeverse/dvc](https://github.com/treeverse/dvc) — momentum 83, ⭐15683 — Versioning & Frameworks — 🦉 Data Versioning and ML Experiments
+- [simonw/datasette](https://github.com/simonw/datasette) — momentum 82, ⭐11202 — Versioning & Frameworks — An open source multi-tool for exploring and publishing data
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) — momentum 82, ⭐10806 — Versioning & Frameworks — Refine high-quality datasets and visual AI models
+- [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) — momentum 79, ⭐6553 — Synthetic Data — Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) — momentum 78, ⭐5712 — Augmentation — A GPU-accelerated library containing highly optimized building blocks and an execution engine for da
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) — momentum 78, ⭐5406 — Versioning & Frameworks — lakeFS - Data version control for your data lake | Git for data
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) — momentum 78, ⭐5006 — Labeling & Annotation — Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
-- [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) — momentum 77, ⭐5976 — Labeling & Annotation — A system for quickly generating training data with weak supervision
-- [torchgeo/torchgeo](https://github.com/torchgeo/torchgeo) — momentum 77, ⭐4070 — Versioning & Frameworks — TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
-- [OpenCSGs/csghub](https://github.com/OpenCSGs/csghub) — momentum 76, ⭐4178 — Versioning & Frameworks — CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offe
-- [Docta-ai/docta](https://github.com/Docta-ai/docta) — momentum 76, ⭐3481 — Versioning & Frameworks — A Doctor for your data
-- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) — momentum 75, ⭐14476 — Versioning & Frameworks — A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
-- [tensorflow/datasets](https://github.com/tensorflow/datasets) — momentum 75, ⭐4571 — Collections & Hubs — TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) — momentum 78, ⭐5410 — Versioning & Frameworks — lakeFS - Data version control for your data lake | Git for data
+- [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) — momentum 77, ⭐5978 — Labeling & Annotation — A system for quickly generating training data with weak supervision
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) — momentum 77, ⭐5008 — Labeling & Annotation — Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
+- [torchgeo/torchgeo](https://github.com/torchgeo/torchgeo) — momentum 77, ⭐4071 — Versioning & Frameworks — TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
+- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) — momentum 75, ⭐14483 — Versioning & Frameworks — A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
+- [tensorflow/datasets](https://github.com/tensorflow/datasets) — momentum 75, ⭐4573 — Collections & Hubs — TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
+- [OpenCSGs/csghub](https://github.com/OpenCSGs/csghub) — momentum 75, ⭐4180 — Versioning & Frameworks — CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offe
 - [sdv-dev/SDV](https://github.com/sdv-dev/SDV) — momentum 75, ⭐3508 — Synthetic Data — Synthetic data generation for tabular data
-- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) — momentum 75, ⭐3278 — Synthetic Data — Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable a
+- [Docta-ai/docta](https://github.com/Docta-ai/docta) — momentum 75, ⭐3480 — Versioning & Frameworks — A Doctor for your data
+- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) — momentum 75, ⭐3283 — Synthetic Data — Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable a
 - [logpai/loghub](https://github.com/logpai/loghub) — momentum 75, ⭐2747 — Collections & Hubs — A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
-- [cuevhv/mamma](https://github.com/cuevhv/mamma) — momentum 75, ⭐589 — Synthetic Data — Official code for MAMMA: Markerless Accurate Multi-person Motion Acquisition.
 - [unsplash/datasets](https://github.com/unsplash/datasets) — momentum 74, ⭐2729 — Versioning & Frameworks — 🎁  7,400,000+ Unsplash images made available for research and machine learning
-- [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio) — momentum 74, ⭐2410 — Augmentation — Medical imaging processing for AI applications.
-- [synthetichealth/synthea](https://github.com/synthetichealth/synthea) — momentum 72, ⭐3191 — Synthetic Data — Synthetic Patient Population Simulator
+- [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio) — momentum 74, ⭐2411 — Augmentation — Medical imaging processing for AI applications.
+- [cuevhv/mamma](https://github.com/cuevhv/mamma) — momentum 74, ⭐598 — Synthetic Data — Official code for MAMMA: Markerless Accurate Multi-person Motion Acquisition.
+- [synthetichealth/synthea](https://github.com/synthetichealth/synthea) — momentum 72, ⭐3194 — Synthetic Data — Synthetic Patient Population Simulator
 - [diffgram/diffgram](https://github.com/diffgram/diffgram) — momentum 72, ⭐1905 — Labeling & Annotation — The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human
-- [doccano/doccano](https://github.com/doccano/doccano) — momentum 71, ⭐10675 — Labeling & Annotation — Open source annotation tool for machine learning practitioners.
-- [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) — momentum 71, ⭐7533 — Versioning & Frameworks — FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Cha
+- [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) — momentum 71, ⭐7534 — Versioning & Frameworks — FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Cha
 - [bespokelabsai/curator](https://github.com/bespokelabsai/curator) — momentum 71, ⭐1687 — Synthetic Data — Synthetic data curation for post-training and structured data extraction
 - [sdv-dev/CTGAN](https://github.com/sdv-dev/CTGAN) — momentum 71, ⭐1560 — Synthetic Data — Conditional GAN for generating synthetic tabular data.
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) — momentum 71, ⭐1366 — Versioning & Frameworks — Quilt is a Scientific Data Management Platform on AWS that helps teams and AI find, trust, and reuse
 - [intellicia-public/parastore](https://github.com/intellicia-public/parastore) — momentum 71, ⭐614 — Synthetic Data — Draw a store, generate LLM personas, and watch them shop — an isometric 3D sandbox for synthetic-con
+- [doccano/doccano](https://github.com/doccano/doccano) — momentum 70, ⭐10676 — Labeling & Annotation — Open source annotation tool for machine learning practitioners.
 - [hitsz-ids/synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) — momentum 70, ⭐2422 — Synthetic Data — SDG is a specialized framework designed to generate high-quality structured tabular data.
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) — momentum 70, ⭐1259 — Versioning & Frameworks — Interactively explore unstructured datasets from your dataframe.
 - [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive) — momentum 70, ⭐1222 — Labeling & Annotation — :chart_with_upwards_trend: Adaptive: parallel active learning of mathematical functions
-- [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) — momentum 70, ⭐1206 — Labeling & Annotation — Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supp
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) — momentum 69, ⭐1695 — Synthetic Data — Database anonymization and test data management
-- [asreview/asreview](https://github.com/asreview/asreview) — momentum 69, ⭐931 — Labeling & Annotation — Active learning for systematic reviews
-- [huggingface/aisheets](https://github.com/huggingface/aisheets) — momentum 68, ⭐1635 — Synthetic Data — Build, enrich, and transform datasets using AI models with no code
+- [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) — momentum 70, ⭐1208 — Labeling & Annotation — Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supp
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) — momentum 68, ⭐1695 — Synthetic Data — Database anonymization and test data management
+- [huggingface/aisheets](https://github.com/huggingface/aisheets) — momentum 68, ⭐1634 — Synthetic Data — Build, enrich, and transform datasets using AI models with no code
+- [asreview/asreview](https://github.com/asreview/asreview) — momentum 68, ⭐932 — Labeling & Annotation — Active learning for systematic reviews
