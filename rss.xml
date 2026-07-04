@@ -33,6 +33,6 @@
     <item><title>yatengLG/ISAT_with_segment_anything — momentum 73</title><link>https://dataset.kymatalabs.com/p/yatenglg-isat-with-segment-anything/</link><guid isPermaLink="false">yatengLG/ISAT_with_segment_anything</guid><description>Labeling tool with SAM(segment anything model),supports SAM, SAM2, SAM3, sam-hq, MobileSAM EdgeSAM etc.交互式半自动图像标注工具</description></item>
     <item><title>ConardLi/easy-dataset — momentum 72</title><link>https://dataset.kymatalabs.com/p/conardli-easy-dataset/</link><guid isPermaLink="false">ConardLi/easy-dataset</guid><description>A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval</description></item>
     <item><title>JuliaData/DataFrames.jl — momentum 72</title><link>https://dataset.kymatalabs.com/p/juliadata-dataframes-jl/</link><guid isPermaLink="false">JuliaData/DataFrames.jl</guid><description>In-memory tabular data in Julia</description></item>
-    <item><title>DataArcTech/DataArc-SynData-Toolkit — momentum 72</title><link>https://dataset.kymatalabs.com/p/dataarctech-dataarc-syndata-toolkit/</link><guid isPermaLink="false">DataArcTech/DataArc-SynData-Toolkit</guid><description>Synthetic Data Generation Platform By DataArcTech</description></item>
+    <item><title>GreenmaskIO/greenmask — momentum 72</title><link>https://dataset.kymatalabs.com/p/greenmaskio-greenmask/</link><guid isPermaLink="false">GreenmaskIO/greenmask</guid><description>Database anonymization and test data management</description></item>
   </channel>
 </rss>
