@@ -3,48 +3,48 @@
 > The living index of data-centric AI tooling — data labeling & annotation, synthetic
 > data, curation & quality, augmentation, and dataset frameworks — ranked daily by GitHub momentum.
 
-Updated: 2026-08-16T09:59:40.761121+00:00
+Updated: 2026-08-17T10:15:41.252013+00:00
 Tools indexed: 253
 
 ## Top data-centric AI tools by momentum
 
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) — momentum 87, ⭐28065 — Labeling & Annotation — Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [dolthub/dolt](https://github.com/dolthub/dolt) — momentum 86, ⭐24189 — Versioning & Frameworks — Dolt – Git for Data
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) — momentum 87, ⭐28078 — Labeling & Annotation — Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [dolthub/dolt](https://github.com/dolthub/dolt) — momentum 86, ⭐24199 — Versioning & Frameworks — Dolt – Git for Data
 - [huggingface/datasets](https://github.com/huggingface/datasets) — momentum 85, ⭐21840 — Collections & Hubs — 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data m
-- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) — momentum 85, ⭐20468 — Synthetic Data — Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) — momentum 84, ⭐16529 — Labeling & Annotation — Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datase
-- [joke2k/faker](https://github.com/joke2k/faker) — momentum 83, ⭐19369 — Synthetic Data — Faker is a Python package that generates fake data for you.
-- [treeverse/dvc](https://github.com/treeverse/dvc) — momentum 83, ⭐15820 — Versioning & Frameworks — 🦉 Data Versioning and ML Experiments
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) — momentum 85, ⭐20484 — Synthetic Data — Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) — momentum 84, ⭐16538 — Labeling & Annotation — Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datase
+- [treeverse/dvc](https://github.com/treeverse/dvc) — momentum 84, ⭐15822 — Versioning & Frameworks — 🦉 Data Versioning and ML Experiments
+- [joke2k/faker](https://github.com/joke2k/faker) — momentum 83, ⭐19368 — Synthetic Data — Faker is a Python package that generates fake data for you.
 - [simonw/datasette](https://github.com/simonw/datasette) — momentum 82, ⭐11384 — Versioning & Frameworks — An open source multi-tool for exploring and publishing data
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) — momentum 82, ⭐11017 — Versioning & Frameworks — Refine high-quality datasets and visual AI models
-- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) — momentum 80, ⭐19710 — Versioning & Frameworks — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, 
-- [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) — momentum 79, ⭐6888 — Synthetic Data — Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) — momentum 79, ⭐19804 — Versioning & Frameworks — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, 
+- [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) — momentum 79, ⭐6897 — Synthetic Data — Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) — momentum 78, ⭐5735 — Augmentation — A GPU-accelerated library containing highly optimized building blocks and an execution engine for da
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) — momentum 78, ⭐5486 — Versioning & Frameworks — lakeFS - Data version control for your data lake | Git for data
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) — momentum 77, ⭐5082 — Labeling & Annotation — Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) — momentum 77, ⭐5081 — Labeling & Annotation — Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [torchgeo/torchgeo](https://github.com/torchgeo/torchgeo) — momentum 77, ⭐4146 — Versioning & Frameworks — TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 - [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) — momentum 76, ⭐7571 — Versioning & Frameworks — FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Cha
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) — momentum 76, ⭐4840 — Synthetic Data — Mimesis is a Python library for generating fake but realistic data in multiple languages and locales
-- [OpenCSGs/csghub](https://github.com/OpenCSGs/csghub) — momentum 76, ⭐4180 — Versioning & Frameworks — CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offe
+- [OpenCSGs/csghub](https://github.com/OpenCSGs/csghub) — momentum 76, ⭐4091 — Versioning & Frameworks — CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offe
 - [sdv-dev/SDV](https://github.com/sdv-dev/SDV) — momentum 76, ⭐3546 — Synthetic Data — Synthetic data generation for tabular data
-- [QData/TextAttack](https://github.com/QData/TextAttack) — momentum 76, ⭐3467 — Augmentation — TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training i
-- [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) — momentum 75, ⭐3539 — Augmentation — ⚡FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource)
-- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) — momentum 75, ⭐3368 — Synthetic Data — Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable a
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) — momentum 75, ⭐4840 — Synthetic Data — Mimesis is a Python library for generating fake but realistic data in multiple languages and locales
+- [QData/TextAttack](https://github.com/QData/TextAttack) — momentum 75, ⭐3467 — Augmentation — TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training i
 - [logpai/loghub](https://github.com/logpai/loghub) — momentum 75, ⭐2797 — Collections & Hubs — A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
-- [tensorflow/datasets](https://github.com/tensorflow/datasets) — momentum 74, ⭐4581 — Collections & Hubs — TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
-- [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) — momentum 74, ⭐2763 — Versioning & Frameworks — Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and di
+- [tensorflow/datasets](https://github.com/tensorflow/datasets) — momentum 74, ⭐4580 — Collections & Hubs — TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
+- [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) — momentum 74, ⭐3541 — Augmentation — ⚡FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource)
+- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) — momentum 74, ⭐3368 — Synthetic Data — Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable a
+- [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) — momentum 74, ⭐2767 — Versioning & Frameworks — Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and di
 - [hitsz-ids/synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) — momentum 73, ⭐2433 — Synthetic Data — SDG is a specialized framework designed to generate high-quality structured tabular data.
 - [unrealcv/unrealcv](https://github.com/unrealcv/unrealcv) — momentum 73, ⭐2207 — Synthetic Data — UnrealCV: Connecting Computer Vision to Unreal Engine
 - [isl-org/Open3D-ML](https://github.com/isl-org/Open3D-ML) — momentum 72, ⭐2326 — Versioning & Frameworks — An extension of Open3D to address 3D Machine Learning tasks
-- [JuliaData/DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) — momentum 72, ⭐1831 — Versioning & Frameworks — In-memory tabular data in Julia
-- [synthetichealth/synthea](https://github.com/synthetichealth/synthea) — momentum 71, ⭐3303 — Synthetic Data — Synthetic Patient Population Simulator
-- [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) — momentum 71, ⭐3231 — Versioning & Frameworks — Extract data from a wide range of Internet sources into a pandas DataFrame.
-- [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio) — momentum 71, ⭐2431 — Augmentation — Medical imaging processing for AI applications.
+- [synthetichealth/synthea](https://github.com/synthetichealth/synthea) — momentum 71, ⭐3302 — Synthetic Data — Synthetic Patient Population Simulator
+- [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) — momentum 71, ⭐3233 — Versioning & Frameworks — Extract data from a wide range of Internet sources into a pandas DataFrame.
+- [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio) — momentum 71, ⭐2432 — Augmentation — Medical imaging processing for AI applications.
 - [yatengLG/ISAT_with_segment_anything](https://github.com/yatengLG/ISAT_with_segment_anything) — momentum 71, ⭐2165 — Labeling & Annotation — Labeling tool with SAM(segment anything model),supports SAM, SAM2, SAM3, sam-hq, MobileSAM EdgeSAM e
+- [JuliaData/DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) — momentum 71, ⭐1830 — Versioning & Frameworks — In-memory tabular data in Julia
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) — momentum 71, ⭐1369 — Versioning & Frameworks — Quilt is a Scientific Data Management Platform on AWS that helps teams and AI find, trust, and reuse
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) — momentum 70, ⭐1745 — Synthetic Data — Database anonymization and test data management
-- [bespokelabsai/curator](https://github.com/bespokelabsai/curator) — momentum 70, ⭐1720 — Synthetic Data — Synthetic data curation for post-training and structured data extraction
+- [bespokelabsai/curator](https://github.com/bespokelabsai/curator) — momentum 70, ⭐1719 — Synthetic Data — Synthetic data curation for post-training and structured data extraction
 - [sdv-dev/CTGAN](https://github.com/sdv-dev/CTGAN) — momentum 70, ⭐1559 — Synthetic Data — Conditional GAN for generating synthetic tabular data.
-- [Renumics/spotlight](https://github.com/Renumics/spotlight) — momentum 70, ⭐1272 — Versioning & Frameworks — Interactively explore unstructured datasets from your dataframe.
-- [Oxen-AI/Oxen](https://github.com/Oxen-AI/Oxen) — momentum 70, ⭐1180 — Versioning & Frameworks — Lightning fast data version control system for large repositories of data. Feels like git, pushes an
-- [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive) — momentum 69, ⭐1225 — Labeling & Annotation — :chart_with_upwards_trend: Adaptive: parallel active learning of mathematical functions
+- [InternScience/GraphGen](https://github.com/InternScience/GraphGen) — momentum 70, ⭐1204 — Synthetic Data — GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation
+- [Oxen-AI/Oxen](https://github.com/Oxen-AI/Oxen) — momentum 70, ⭐1179 — Versioning & Frameworks — Lightning fast data version control system for large repositories of data. Feels like git, pushes an
+- [Renumics/spotlight](https://github.com/Renumics/spotlight) — momentum 69, ⭐1272 — Versioning & Frameworks — Interactively explore unstructured datasets from your dataframe.
