@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T14:31:32.617674+00:00",
+ "generated_at": "2026-08-31T17:14:13.646404+00:00",
  "count": 254,
  "categories": [
   {
@@ -35,12 +35,12 @@
    "url": "https://github.com/HumanSignal/label-studio",
    "owner": "HumanSignal",
    "owner_avatar": "https://avatars.githubusercontent.com/u/48309720?v=4",
-   "stars": 28162,
-   "forks": 3679,
-   "open_issues": 928,
+   "stars": 28173,
+   "forks": 3680,
+   "open_issues": 930,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-30T12:43:32Z",
+   "pushed_at": "2026-08-31T16:51:56Z",
    "created_at": "2019-06-19T02:00:44Z",
    "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
    "topics": [
@@ -76,12 +76,12 @@
    "url": "https://github.com/dolthub/dolt",
    "owner": "dolthub",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42156961?v=4",
-   "stars": 24297,
+   "stars": 24308,
    "forks": 868,
-   "open_issues": 711,
+   "open_issues": 713,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-28T22:57:46Z",
+   "pushed_at": "2026-08-31T17:10:05Z",
    "created_at": "2019-07-24T17:46:25Z",
    "description": "Dolt – Git for Data",
    "topics": [
@@ -118,11 +118,11 @@
    "owner": "huggingface",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
    "stars": 21879,
-   "forks": 3375,
-   "open_issues": 1322,
+   "forks": 3377,
+   "open_issues": 1319,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-28T13:21:25Z",
+   "pushed_at": "2026-08-31T09:38:50Z",
    "created_at": "2020-03-26T09:23:22Z",
    "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
    "topics": [
@@ -144,7 +144,7 @@
     "tensorflow"
    ],
    "category": "Collections & Hubs",
-   "momentum": 85,
+   "momentum": 86,
    "rank": 3
   },
   {
@@ -154,12 +154,12 @@
    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
    "owner": "stefan-jansen",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4275885?v=4",
-   "stars": 20735,
-   "forks": 5575,
-   "open_issues": 8,
+   "stars": 20742,
+   "forks": 5579,
+   "open_issues": 4,
    "language": "Jupyter Notebook",
    "license": "MIT",
-   "pushed_at": "2026-08-30T14:22:23Z",
+   "pushed_at": "2026-08-31T13:26:05Z",
    "created_at": "2018-05-09T12:33:08Z",
    "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
    "topics": [
@@ -193,12 +193,12 @@
    "url": "https://github.com/cvat-ai/cvat",
    "owner": "cvat-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/105363648?v=4",
-   "stars": 16620,
-   "forks": 3823,
-   "open_issues": 596,
+   "stars": 16628,
+   "forks": 3824,
+   "open_issues": 600,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-30T09:21:54Z",
+   "pushed_at": "2026-08-31T15:36:19Z",
    "created_at": "2018-06-29T14:02:45Z",
    "description": "Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs.",
    "topics": [
@@ -228,13 +228,41 @@
    "rank": 5
   },
   {
+   "name": "dvc",
+   "full_name": "treeverse/dvc",
+   "slug": "treeverse-dvc",
+   "url": "https://github.com/treeverse/dvc",
+   "owner": "treeverse",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/58909255?v=4",
+   "stars": 15851,
+   "forks": 1326,
+   "open_issues": 201,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-08-31T02:03:46Z",
+   "created_at": "2017-03-04T08:16:33Z",
+   "description": "🦉 Data Versioning and ML Experiments",
+   "topics": [
+    "ai",
+    "data-science",
+    "data-version-control",
+    "developer-tools",
+    "machine-learning",
+    "reproducibility",
+    "unstructured-data"
+   ],
+   "category": "Versioning & Frameworks",
+   "momentum": 84,
+   "rank": 6
+  },
+  {
    "name": "faker",
    "full_name": "joke2k/faker",
    "slug": "joke2k-faker",
    "url": "https://github.com/joke2k/faker",
    "owner": "joke2k",
    "owner_avatar": "https://avatars.githubusercontent.com/u/359076?v=4",
-   "stars": 19383,
+   "stars": 19384,
    "forks": 2112,
    "open_issues": 33,
    "language": "Python",
@@ -255,34 +283,6 @@
    ],
    "category": "Synthetic Data",
    "momentum": 83,
-   "rank": 6
-  },
-  {
-   "name": "dvc",
-   "full_name": "treeverse/dvc",
-   "slug": "treeverse-dvc",
-   "url": "https://github.com/treeverse/dvc",
-   "owner": "treeverse",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/58909255?v=4",
-   "stars": 15850,
-   "forks": 1326,
-   "open_issues": 201,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-08-24T18:51:06Z",
-   "created_at": "2017-03-04T08:16:33Z",
-   "description": "🦉 Data Versioning and ML Experiments",
-   "topics": [
-    "ai",
-    "data-science",
-    "data-version-control",
-    "developer-tools",
-    "machine-learning",
-    "reproducibility",
-    "unstructured-data"
-   ],
-   "category": "Versioning & Frameworks",
-   "momentum": 83,
    "rank": 7
   },
   {
@@ -292,12 +292,12 @@
    "url": "https://github.com/voxel51/fiftyone",
    "owner": "voxel51",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25984855?v=4",
-   "stars": 11047,
-   "forks": 819,
-   "open_issues": 676,
+   "stars": 11049,
+   "forks": 818,
+   "open_issues": 673,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-30T14:18:09Z",
+   "pushed_at": "2026-08-31T16:59:57Z",
    "created_at": "2020-04-22T13:43:28Z",
    "description": "Refine high-quality datasets and visual AI models",
    "topics": [
@@ -332,7 +332,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/9599?v=4",
    "stars": 11414,
    "forks": 901,
-   "open_issues": 710,
+   "open_issues": 711,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-08-14T00:11:42Z",
@@ -362,12 +362,12 @@
    "url": "https://github.com/datajuicer/data-juicer",
    "owner": "datajuicer",
    "owner_avatar": "https://avatars.githubusercontent.com/u/223222708?v=4",
-   "stars": 6951,
+   "stars": 6956,
    "forks": 412,
    "open_issues": 61,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-28T11:00:06Z",
+   "pushed_at": "2026-08-31T11:10:12Z",
    "created_at": "2023-08-01T09:16:41Z",
    "description": "Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷",
    "topics": [
@@ -397,12 +397,12 @@
    "url": "https://github.com/NVIDIA/DALI",
    "owner": "NVIDIA",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
-   "stars": 5740,
-   "forks": 677,
-   "open_issues": 218,
+   "stars": 5741,
+   "forks": 676,
+   "open_issues": 216,
    "language": "C++",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-28T20:32:01Z",
+   "pushed_at": "2026-08-31T15:20:14Z",
    "created_at": "2018-06-01T22:18:01Z",
    "description": "A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.",
    "topics": [
@@ -433,8 +433,8 @@
    "url": "https://github.com/hasaneyldrm/exercises-dataset",
    "owner": "hasaneyldrm",
    "owner_avatar": "https://avatars.githubusercontent.com/u/28005450?v=4",
-   "stars": 21110,
-   "forks": 2666,
+   "stars": 21171,
+   "forks": 2686,
    "open_issues": 45,
    "language": "HTML",
    "license": "NOASSERTION",
@@ -464,9 +464,9 @@
    "url": "https://github.com/argilla-io/argilla",
    "owner": "argilla-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18415507?v=4",
-   "stars": 5088,
-   "forks": 503,
-   "open_issues": 29,
+   "stars": 5090,
+   "forks": 504,
+   "open_issues": 30,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-08-24T22:15:29Z",
@@ -502,12 +502,12 @@
    "url": "https://github.com/torchgeo/torchgeo",
    "owner": "torchgeo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/220939474?v=4",
-   "stars": 4163,
+   "stars": 4162,
    "forks": 582,
-   "open_issues": 211,
+   "open_issues": 213,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-29T17:02:01Z",
+   "pushed_at": "2026-08-31T12:23:10Z",
    "created_at": "2021-05-21T05:58:56Z",
    "description": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
    "topics": [
@@ -534,8 +534,8 @@
    "url": "https://github.com/treeverse/lakeFS",
    "owner": "treeverse",
    "owner_avatar": "https://avatars.githubusercontent.com/u/58909255?v=4",
-   "stars": 5500,
-   "forks": 476,
+   "stars": 5503,
+   "forks": 475,
    "open_issues": 439,
    "language": "Go",
    "license": "Apache-2.0",
@@ -609,43 +609,15 @@
    "rank": 16
   },
   {
-   "name": "datasets",
-   "full_name": "tensorflow/datasets",
-   "slug": "tensorflow-datasets",
-   "url": "https://github.com/tensorflow/datasets",
-   "owner": "tensorflow",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/15658638?v=4",
-   "stars": 4581,
-   "forks": 1591,
-   "open_issues": 689,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-08-21T16:29:09Z",
-   "created_at": "2018-09-10T21:27:22Z",
-   "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...",
-   "topics": [
-    "data",
-    "dataset",
-    "datasets",
-    "jax",
-    "machine-learning",
-    "numpy",
-    "tensorflow"
-   ],
-   "category": "Collections & Hubs",
-   "momentum": 76,
-   "rank": 17
-  },
-  {
    "name": "csghub",
    "full_name": "OpenCSGs/csghub",
    "slug": "opencsgs-csghub",
    "url": "https://github.com/OpenCSGs/csghub",
    "owner": "OpenCSGs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/153507210?v=4",
-   "stars": 4102,
+   "stars": 4103,
    "forks": 517,
-   "open_issues": 30,
+   "open_issues": 33,
    "language": "Vue",
    "license": "Apache-2.0",
    "pushed_at": "2026-08-28T12:00:21Z",
@@ -671,7 +643,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 76,
-   "rank": 18
+   "rank": 17
   },
   {
    "name": "SDV",
@@ -682,10 +654,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/59050321?v=4",
    "stars": 3551,
    "forks": 420,
-   "open_issues": 161,
+   "open_issues": 162,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-29T19:18:20Z",
+   "pushed_at": "2026-08-31T17:04:27Z",
    "created_at": "2018-05-11T15:56:50Z",
    "description": "Synthetic data generation for tabular data",
    "topics": [
@@ -707,7 +679,88 @@
    ],
    "category": "Synthetic Data",
    "momentum": 76,
+   "rank": 18
+  },
+  {
+   "name": "datasets",
+   "full_name": "tensorflow/datasets",
+   "slug": "tensorflow-datasets",
+   "url": "https://github.com/tensorflow/datasets",
+   "owner": "tensorflow",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/15658638?v=4",
+   "stars": 4582,
+   "forks": 1590,
+   "open_issues": 689,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-08-21T16:29:09Z",
+   "created_at": "2018-09-10T21:27:22Z",
+   "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...",
+   "topics": [
+    "data",
+    "dataset",
+    "datasets",
+    "jax",
+    "machine-learning",
+    "numpy",
+    "tensorflow"
+   ],
+   "category": "Collections & Hubs",
+   "momentum": 75,
    "rank": 19
+  },
+  {
+   "name": "loghub",
+   "full_name": "logpai/loghub",
+   "slug": "logpai-loghub",
+   "url": "https://github.com/logpai/loghub",
+   "owner": "logpai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/23229062?v=4",
+   "stars": 2814,
+   "forks": 792,
+   "open_issues": 2,
+   "language": "",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-31T10:36:07Z",
+   "created_at": "2016-06-08T14:51:57Z",
+   "description": "A large collection of system log datasets for AI-driven log analytics [ISSRE'23]",
+   "topics": [
+    "anomaly-detection",
+    "datasets",
+    "log-analysis",
+    "log-intelligence",
+    "log-parsing",
+    "logs",
+    "unstructured-logs"
+   ],
+   "category": "Collections & Hubs",
+   "momentum": 75,
+   "rank": 20
+  },
+  {
+   "name": "FlashRAG",
+   "full_name": "RUC-NLPIR/FlashRAG",
+   "slug": "ruc-nlpir-flashrag",
+   "url": "https://github.com/RUC-NLPIR/FlashRAG",
+   "owner": "RUC-NLPIR",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/139615285?v=4",
+   "stars": 3562,
+   "forks": 314,
+   "open_issues": 37,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-08-21T07:53:25Z",
+   "created_at": "2024-03-14T01:40:33Z",
+   "description": "⚡FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource)",
+   "topics": [
+    "benchmark",
+    "datasets",
+    "large-language-models",
+    "retrieval-augmented-generation"
+   ],
+   "category": "Augmentation",
+   "momentum": 74,
+   "rank": 21
   },
   {
    "name": "distilabel",
@@ -718,7 +771,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/18415507?v=4",
    "stars": 3383,
    "forks": 257,
-   "open_issues": 104,
+   "open_issues": 105,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-08-24T22:15:36Z",
@@ -736,59 +789,6 @@
     "synthetic-dataset-generation"
    ],
    "category": "Synthetic Data",
-   "momentum": 75,
-   "rank": 20
-  },
-  {
-   "name": "loghub",
-   "full_name": "logpai/loghub",
-   "slug": "logpai-loghub",
-   "url": "https://github.com/logpai/loghub",
-   "owner": "logpai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/23229062?v=4",
-   "stars": 2812,
-   "forks": 791,
-   "open_issues": 2,
-   "language": "",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-30T09:46:38Z",
-   "created_at": "2016-06-08T14:51:57Z",
-   "description": "A large collection of system log datasets for AI-driven log analytics [ISSRE'23]",
-   "topics": [
-    "anomaly-detection",
-    "datasets",
-    "log-analysis",
-    "log-intelligence",
-    "log-parsing",
-    "logs",
-    "unstructured-logs"
-   ],
-   "category": "Collections & Hubs",
-   "momentum": 75,
-   "rank": 21
-  },
-  {
-   "name": "FlashRAG",
-   "full_name": "RUC-NLPIR/FlashRAG",
-   "slug": "ruc-nlpir-flashrag",
-   "url": "https://github.com/RUC-NLPIR/FlashRAG",
-   "owner": "RUC-NLPIR",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/139615285?v=4",
-   "stars": 3564,
-   "forks": 314,
-   "open_issues": 37,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-08-21T07:53:25Z",
-   "created_at": "2024-03-14T01:40:33Z",
-   "description": "⚡FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource)",
-   "topics": [
-    "benchmark",
-    "datasets",
-    "large-language-models",
-    "retrieval-augmented-generation"
-   ],
-   "category": "Augmentation",
    "momentum": 74,
    "rank": 22
   },
@@ -800,8 +800,8 @@
    "owner": "imaNNeo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7009300?v=4",
    "stars": 7578,
-   "forks": 1964,
-   "open_issues": 406,
+   "forks": 1965,
+   "open_issues": 407,
    "language": "Dart",
    "license": "MIT",
    "pushed_at": "2026-07-24T23:02:03Z",
@@ -838,7 +838,7 @@
    "url": "https://github.com/QData/TextAttack",
    "owner": "QData",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20266371?v=4",
-   "stars": 3474,
+   "stars": 3473,
    "forks": 459,
    "open_issues": 18,
    "language": "Python",
@@ -867,8 +867,8 @@
    "url": "https://github.com/synthetichealth/synthea",
    "owner": "synthetichealth",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19552017?v=4",
-   "stars": 3319,
-   "forks": 930,
+   "stars": 3320,
+   "forks": 931,
    "open_issues": 225,
    "language": "Java",
    "license": "Apache-2.0",
@@ -894,12 +894,12 @@
    "url": "https://github.com/KartikLabhshetwar/better-shot",
    "owner": "KartikLabhshetwar",
    "owner_avatar": "https://avatars.githubusercontent.com/u/141413343?v=4",
-   "stars": 2216,
+   "stars": 2224,
    "forks": 133,
-   "open_issues": 4,
+   "open_issues": 6,
    "language": "Swift",
    "license": "BSD-3-Clause",
-   "pushed_at": "2026-08-30T09:21:04Z",
+   "pushed_at": "2026-08-30T17:34:51Z",
    "created_at": "2026-01-11T09:39:37Z",
    "description": "One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.",
    "topics": [
@@ -991,8 +991,8 @@
    "url": "https://github.com/WebBreacher/WhatsMyName",
    "owner": "WebBreacher",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2359093?v=4",
-   "stars": 2809,
-   "forks": 454,
+   "stars": 2817,
+   "forks": 456,
    "open_issues": 2,
    "language": "Python",
    "license": "NOASSERTION",
@@ -1013,37 +1013,6 @@
    "category": "Versioning & Frameworks",
    "momentum": 72,
    "rank": 29
-  },
-  {
-   "name": "synthetic-data-generator",
-   "full_name": "hitsz-ids/synthetic-data-generator",
-   "slug": "hitsz-ids-synthetic-data-generator",
-   "url": "https://github.com/hitsz-ids/synthetic-data-generator",
-   "owner": "hitsz-ids",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/55747983?v=4",
-   "stars": 2435,
-   "forks": 392,
-   "open_issues": 27,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-08-17T18:56:21Z",
-   "created_at": "2023-08-10T03:08:07Z",
-   "description": "SDG is a specialized framework designed to generate high-quality structured tabular data.",
-   "topics": [
-    "agent",
-    "data-generator",
-    "deep-learning",
-    "gan",
-    "generative-ai",
-    "llm",
-    "machine-learning",
-    "privacy",
-    "synthetic-data",
-    "tabular-data"
-   ],
-   "category": "Synthetic Data",
-   "momentum": 72,
-   "rank": 30
   },
   {
    "name": "Open3D-ML",
@@ -1075,7 +1044,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 72,
-   "rank": 31
+   "rank": 30
   },
   {
    "name": "DataFrames.jl",
@@ -1089,7 +1058,7 @@
    "open_issues": 161,
    "language": "Julia",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-30T12:00:57Z",
+   "pushed_at": "2026-08-30T14:44:06Z",
    "created_at": "2012-07-11T18:00:09Z",
    "description": "In-memory tabular data in Julia",
    "topics": [
@@ -1103,6 +1072,37 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 72,
+   "rank": 31
+  },
+  {
+   "name": "synthetic-data-generator",
+   "full_name": "hitsz-ids/synthetic-data-generator",
+   "slug": "hitsz-ids-synthetic-data-generator",
+   "url": "https://github.com/hitsz-ids/synthetic-data-generator",
+   "owner": "hitsz-ids",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/55747983?v=4",
+   "stars": 2435,
+   "forks": 392,
+   "open_issues": 27,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-08-17T18:56:21Z",
+   "created_at": "2023-08-10T03:08:07Z",
+   "description": "SDG is a specialized framework designed to generate high-quality structured tabular data.",
+   "topics": [
+    "agent",
+    "data-generator",
+    "deep-learning",
+    "gan",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "privacy",
+    "synthetic-data",
+    "tabular-data"
+   ],
+   "category": "Synthetic Data",
+   "momentum": 71,
    "rank": 32
   },
   {
@@ -1152,8 +1152,8 @@
    "url": "https://github.com/GreenmaskIO/greenmask",
    "owner": "GreenmaskIO",
    "owner_avatar": "https://avatars.githubusercontent.com/u/142438751?v=4",
-   "stars": 1754,
-   "forks": 67,
+   "stars": 1755,
+   "forks": 68,
    "open_issues": 51,
    "language": "Go",
    "license": "Apache-2.0",
@@ -1195,10 +1195,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/17112125?v=4",
    "stars": 1370,
    "forks": 90,
-   "open_issues": 124,
+   "open_issues": 133,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-30T07:52:18Z",
+   "pushed_at": "2026-08-31T17:09:07Z",
    "created_at": "2017-02-10T02:46:03Z",
    "description": "Quilt is a Scientific Data Management Platform on AWS that helps teams and AI find, trust, and reuse data through deeply versioned, context-rich data packages.",
    "topics": [
@@ -1223,10 +1223,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/104101299?v=4",
    "stars": 1182,
    "forks": 35,
-   "open_issues": 20,
+   "open_issues": 19,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-28T19:53:26Z",
+   "pushed_at": "2026-08-31T17:08:35Z",
    "created_at": "2022-08-01T21:57:25Z",
    "description": "Lightning fast data version control system for large repositories of data. Feels like git, pushes and pulls like oxen.",
    "topics": [
@@ -1243,42 +1243,6 @@
    "category": "Versioning & Frameworks",
    "momentum": 70,
    "rank": 36
-  },
-  {
-   "name": "synthadoc",
-   "full_name": "axoviq-ai/synthadoc",
-   "slug": "axoviq-ai-synthadoc",
-   "url": "https://github.com/axoviq-ai/synthadoc",
-   "owner": "axoviq-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/275206488?v=4",
-   "stars": 1115,
-   "forks": 123,
-   "open_issues": 6,
-   "language": "Python",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-08-30T14:20:59Z",
-   "created_at": "2026-04-11T03:50:12Z",
-   "description": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.",
-   "topics": [
-    "agent-skills",
-    "agentic-ai",
-    "cli-tool",
-    "domain-adaptation",
-    "enterprise",
-    "enterprise-solutions",
-    "knowledge-graph",
-    "local-llm",
-    "obsidian-md",
-    "obsidian-plugin",
-    "personal-knowledge-management",
-    "pkm",
-    "rag-alternative",
-    "synthetic",
-    "synthetic-data"
-   ],
-   "category": "Synthetic Data",
-   "momentum": 70,
-   "rank": 37
   },
   {
    "name": "torchio",
@@ -1308,7 +1272,7 @@
    ],
    "category": "Augmentation",
    "momentum": 69,
-   "rank": 38
+   "rank": 37
   },
   {
    "name": "adaptive",
@@ -1338,7 +1302,107 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 69,
+   "rank": 38
+  },
+  {
+   "name": "synthadoc",
+   "full_name": "axoviq-ai/synthadoc",
+   "slug": "axoviq-ai-synthadoc",
+   "url": "https://github.com/axoviq-ai/synthadoc",
+   "owner": "axoviq-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/275206488?v=4",
+   "stars": 1116,
+   "forks": 123,
+   "open_issues": 4,
+   "language": "Python",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-08-30T15:17:53Z",
+   "created_at": "2026-04-11T03:50:12Z",
+   "description": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.",
+   "topics": [
+    "agent-skills",
+    "agentic-ai",
+    "cli-tool",
+    "domain-adaptation",
+    "enterprise",
+    "enterprise-solutions",
+    "knowledge-graph",
+    "local-llm",
+    "obsidian-md",
+    "obsidian-plugin",
+    "personal-knowledge-management",
+    "pkm",
+    "rag-alternative",
+    "synthetic",
+    "synthetic-data"
+   ],
+   "category": "Synthetic Data",
+   "momentum": 69,
    "rank": 39
+  },
+  {
+   "name": "asreview",
+   "full_name": "asreview/asreview",
+   "slug": "asreview-asreview",
+   "url": "https://github.com/asreview/asreview",
+   "owner": "asreview",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/35927605?v=4",
+   "stars": 1000,
+   "forks": 179,
+   "open_issues": 113,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-08-31T16:45:45Z",
+   "created_at": "2019-01-09T14:09:32Z",
+   "description": "Active learning for systematic reviews",
+   "topics": [
+    "active-learning",
+    "asreview",
+    "deep-learning",
+    "language-model",
+    "learning-algorithms",
+    "literature",
+    "llm",
+    "natural-language-processing",
+    "neural-network",
+    "research",
+    "systematic-literature-reviews",
+    "systematic-reviews",
+    "utrecht-university"
+   ],
+   "category": "Labeling & Annotation",
+   "momentum": 69,
+   "rank": 40
+  },
+  {
+   "name": "expressive-code",
+   "full_name": "expressive-code/expressive-code",
+   "slug": "expressive-code-expressive-code",
+   "url": "https://github.com/expressive-code/expressive-code",
+   "owner": "expressive-code",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/124694388?v=4",
+   "stars": 962,
+   "forks": 48,
+   "open_issues": 18,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-08-31T15:29:53Z",
+   "created_at": "2022-09-05T22:39:25Z",
+   "description": "A text marking & annotation engine for presenting source code on the web.",
+   "topics": [
+    "annotation-tool",
+    "code-annotation",
+    "code-blocks",
+    "code-documentation",
+    "diff",
+    "documentation-tool",
+    "syntax-highlighting",
+    "text-marker",
+    "web-development"
+   ],
+   "category": "Labeling & Annotation",
+   "momentum": 69,
+   "rank": 41
   },
   {
    "name": "pandas-datareader",
@@ -1373,7 +1437,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 68,
-   "rank": 40
+   "rank": 42
   },
   {
    "name": "curator",
@@ -1405,7 +1469,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 68,
-   "rank": 41
+   "rank": 43
   },
   {
    "name": "CTGAN",
@@ -1414,8 +1478,8 @@
    "url": "https://github.com/sdv-dev/CTGAN",
    "owner": "sdv-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59050321?v=4",
-   "stars": 1563,
-   "forks": 332,
+   "stars": 1564,
+   "forks": 333,
    "open_issues": 39,
    "language": "Python",
    "license": "NOASSERTION",
@@ -1431,7 +1495,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 68,
-   "rank": 42
+   "rank": 44
   },
   {
    "name": "spotlight",
@@ -1465,7 +1529,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 68,
-   "rank": 43
+   "rank": 45
   },
   {
    "name": "GraphGen",
@@ -1502,7 +1566,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 68,
-   "rank": 44
+   "rank": 46
   },
   {
    "name": "DrawPen",
@@ -1530,41 +1594,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 68,
-   "rank": 45
-  },
-  {
-   "name": "asreview",
-   "full_name": "asreview/asreview",
-   "slug": "asreview-asreview",
-   "url": "https://github.com/asreview/asreview",
-   "owner": "asreview",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/35927605?v=4",
-   "stars": 992,
-   "forks": 179,
-   "open_issues": 113,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-08-25T21:40:13Z",
-   "created_at": "2019-01-09T14:09:32Z",
-   "description": "Active learning for systematic reviews",
-   "topics": [
-    "active-learning",
-    "asreview",
-    "deep-learning",
-    "language-model",
-    "learning-algorithms",
-    "literature",
-    "llm",
-    "natural-language-processing",
-    "neural-network",
-    "research",
-    "systematic-literature-reviews",
-    "systematic-reviews",
-    "utrecht-university"
-   ],
-   "category": "Labeling & Annotation",
-   "momentum": 68,
-   "rank": 46
+   "rank": 47
   },
   {
    "name": "dokieli",
@@ -1575,10 +1605,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/162708779?v=4",
    "stars": 893,
    "forks": 101,
-   "open_issues": 228,
+   "open_issues": 229,
    "language": "JavaScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-30T11:48:46Z",
+   "pushed_at": "2026-08-31T16:40:00Z",
    "created_at": "2013-04-27T21:25:05Z",
    "description": ":bulb: dokieli is a clientside editor for decentralised article publishing, annotations and social interactions",
    "topics": [
@@ -1604,7 +1634,37 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 68,
-   "rank": 47
+   "rank": 48
+  },
+  {
+   "name": "annotorious",
+   "full_name": "annotorious/annotorious",
+   "slug": "annotorious-annotorious",
+   "url": "https://github.com/annotorious/annotorious",
+   "owner": "annotorious",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/2588644?v=4",
+   "stars": 861,
+   "forks": 134,
+   "open_issues": 18,
+   "language": "TypeScript",
+   "license": "BSD-3-Clause",
+   "pushed_at": "2026-08-31T10:15:39Z",
+   "created_at": "2020-03-29T15:03:16Z",
+   "description": "Add image annotation functionality to any web page with a few lines of JavaScript.",
+   "topics": [
+    "annotation",
+    "annotation-tool",
+    "data-annotation-tools",
+    "iiif",
+    "image-annotation",
+    "image-annotation-tool",
+    "openseadragon",
+    "react",
+    "react-image-annotation"
+   ],
+   "category": "Labeling & Annotation",
+   "momentum": 68,
+   "rank": 49
   },
   {
    "name": "deepfabric",
@@ -1642,7 +1702,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 67,
-   "rank": 48
+   "rank": 50
   },
   {
    "name": "inception",
@@ -1653,10 +1713,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/31474830?v=4",
    "stars": 712,
    "forks": 171,
-   "open_issues": 243,
+   "open_issues": 245,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-28T22:57:16Z",
+   "pushed_at": "2026-08-31T06:41:03Z",
    "created_at": "2018-03-27T15:04:00Z",
    "description": "INCEpTION provides a semantic annotation platform offering intelligent annotation assistance and knowledge management.",
    "topics": [
@@ -1673,7 +1733,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 67,
-   "rank": 49
+   "rank": 51
   },
   {
    "name": "datumaro",
@@ -1705,27 +1765,36 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 67,
-   "rank": 50
+   "rank": 52
   },
   {
-   "name": "RSIBench-Data",
-   "full_name": "evolvent-ai/RSIBench-Data",
-   "slug": "evolvent-ai-rsibench-data",
-   "url": "https://github.com/evolvent-ai/RSIBench-Data",
-   "owner": "evolvent-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/252840856?v=4",
-   "stars": 139,
-   "forks": 7,
-   "open_issues": 6,
-   "language": "Shell",
-   "license": "",
-   "pushed_at": "2026-08-25T08:10:43Z",
-   "created_at": "2026-07-25T16:04:56Z",
-   "description": "Synthetic data generation, post-training, and E2B benchmark evaluation infrastructure.",
-   "topics": [],
+   "name": "Copulas",
+   "full_name": "sdv-dev/Copulas",
+   "slug": "sdv-dev-copulas",
+   "url": "https://github.com/sdv-dev/Copulas",
+   "owner": "sdv-dev",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/59050321?v=4",
+   "stars": 652,
+   "forks": 122,
+   "open_issues": 55,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-31T00:55:39Z",
+   "created_at": "2017-11-13T21:45:29Z",
+   "description": "A library to model multivariate data using copulas.",
+   "topics": [
+    "copulas",
+    "data-generation",
+    "generative-ai",
+    "generative-model",
+    "machine-learning",
+    "synthetic-data",
+    "synthetic-data-generation",
+    "tabular-data"
+   ],
    "category": "Synthetic Data",
    "momentum": 67,
-   "rank": 51
+   "rank": 53
   },
   {
    "name": "libact",
@@ -1750,36 +1819,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 66,
-   "rank": 52
-  },
-  {
-   "name": "Copulas",
-   "full_name": "sdv-dev/Copulas",
-   "slug": "sdv-dev-copulas",
-   "url": "https://github.com/sdv-dev/Copulas",
-   "owner": "sdv-dev",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/59050321?v=4",
-   "stars": 652,
-   "forks": 122,
-   "open_issues": 55,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-24T00:22:02Z",
-   "created_at": "2017-11-13T21:45:29Z",
-   "description": "A library to model multivariate data using copulas.",
-   "topics": [
-    "copulas",
-    "data-generation",
-    "generative-ai",
-    "generative-model",
-    "machine-learning",
-    "synthetic-data",
-    "synthetic-data-generation",
-    "tabular-data"
-   ],
-   "category": "Synthetic Data",
-   "momentum": 66,
-   "rank": 53
+   "rank": 54
   },
   {
    "name": "lost",
@@ -1793,7 +1833,7 @@
    "open_issues": 19,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-28T08:31:16Z",
+   "pushed_at": "2026-08-31T15:48:29Z",
    "created_at": "2018-11-12T16:04:39Z",
    "description": "Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment.",
    "topics": [
@@ -1809,7 +1849,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 66,
-   "rank": 54
+   "rank": 55
   },
   {
    "name": "AlbumentationsX",
@@ -1823,7 +1863,7 @@
    "open_issues": 48,
    "language": "Python",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-08-29T18:36:40Z",
+   "pushed_at": "2026-08-31T13:00:04Z",
    "created_at": "2025-06-19T21:50:16Z",
    "description": "Next-generation Albumentations: dual-licensed for open-source and commercial use",
    "topics": [
@@ -1850,7 +1890,27 @@
    ],
    "category": "Augmentation",
    "momentum": 66,
-   "rank": 55
+   "rank": 56
+  },
+  {
+   "name": "RSIBench-Data",
+   "full_name": "evolvent-ai/RSIBench-Data",
+   "slug": "evolvent-ai-rsibench-data",
+   "url": "https://github.com/evolvent-ai/RSIBench-Data",
+   "owner": "evolvent-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/252840856?v=4",
+   "stars": 139,
+   "forks": 7,
+   "open_issues": 6,
+   "language": "Shell",
+   "license": "",
+   "pushed_at": "2026-08-25T08:10:43Z",
+   "created_at": "2026-07-25T16:04:56Z",
+   "description": "Synthetic data generation, post-training, and E2B benchmark evaluation infrastructure.",
+   "topics": [],
+   "category": "Synthetic Data",
+   "momentum": 66,
+   "rank": 57
   },
   {
    "name": "baybe",
@@ -1864,7 +1924,7 @@
    "open_issues": 61,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-28T16:42:51Z",
+   "pushed_at": "2026-08-31T13:30:54Z",
    "created_at": "2023-11-27T17:02:40Z",
    "description": "Bayesian Optimization and Design of Experiments",
    "topics": [
@@ -1877,7 +1937,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 65,
-   "rank": 56
+   "rank": 58
   },
   {
    "name": "edsl",
@@ -1887,11 +1947,11 @@
    "owner": "expectedparrot",
    "owner_avatar": "https://avatars.githubusercontent.com/u/101932709?v=4",
    "stars": 491,
-   "forks": 80,
-   "open_issues": 40,
+   "forks": 81,
+   "open_issues": 41,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-28T15:11:40Z",
+   "pushed_at": "2026-08-31T12:30:46Z",
    "created_at": "2024-01-02T22:18:47Z",
    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
    "topics": [
@@ -1916,7 +1976,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 65,
-   "rank": 57
+   "rank": 59
   },
   {
    "name": "snorkel",
@@ -1925,8 +1985,8 @@
    "url": "https://github.com/snorkel-team/snorkel",
    "owner": "snorkel-team",
    "owner_avatar": "https://avatars.githubusercontent.com/u/51541156?v=4",
-   "stars": 6004,
-   "forks": 859,
+   "stars": 6005,
+   "forks": 860,
    "open_issues": 19,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1947,37 +2007,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 64,
-   "rank": 58
-  },
-  {
-   "name": "annotorious",
-   "full_name": "annotorious/annotorious",
-   "slug": "annotorious-annotorious",
-   "url": "https://github.com/annotorious/annotorious",
-   "owner": "annotorious",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/2588644?v=4",
-   "stars": 861,
-   "forks": 134,
-   "open_issues": 20,
-   "language": "TypeScript",
-   "license": "BSD-3-Clause",
-   "pushed_at": "2026-08-05T12:39:00Z",
-   "created_at": "2020-03-29T15:03:16Z",
-   "description": "Add image annotation functionality to any web page with a few lines of JavaScript.",
-   "topics": [
-    "annotation",
-    "annotation-tool",
-    "data-annotation-tools",
-    "iiif",
-    "image-annotation",
-    "image-annotation-tool",
-    "openseadragon",
-    "react",
-    "react-image-annotation"
-   ],
-   "category": "Labeling & Annotation",
-   "momentum": 64,
-   "rank": 59
+   "rank": 60
   },
   {
    "name": "PPOCRLabel",
@@ -1986,7 +2016,7 @@
    "url": "https://github.com/PFCCLab/PPOCRLabel",
    "owner": "PFCCLab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125432629?v=4",
-   "stars": 441,
+   "stars": 442,
    "forks": 106,
    "open_issues": 17,
    "language": "Python",
@@ -1997,7 +2027,7 @@
    "topics": [],
    "category": "Labeling & Annotation",
    "momentum": 64,
-   "rank": 60
+   "rank": 61
   },
   {
    "name": "potato",
@@ -2011,7 +2041,7 @@
    "open_issues": 3,
    "language": "Python",
    "license": "GPL-3.0",
-   "pushed_at": "2026-08-28T13:32:51Z",
+   "pushed_at": "2026-08-31T14:46:04Z",
    "created_at": "2020-04-23T16:49:28Z",
    "description": "potato: the portable annotation tool",
    "topics": [
@@ -2030,7 +2060,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 64,
-   "rank": 61
+   "rank": 62
   },
   {
    "name": "bofire",
@@ -2041,10 +2071,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/116543255?v=4",
    "stars": 402,
    "forks": 53,
-   "open_issues": 72,
+   "open_issues": 73,
    "language": "Python",
    "license": "BSD-3-Clause",
-   "pushed_at": "2026-08-28T14:07:59Z",
+   "pushed_at": "2026-08-31T14:00:57Z",
    "created_at": "2022-10-31T17:29:42Z",
    "description": "Experimental design and (multi-objective) bayesian optimization.",
    "topics": [
@@ -2056,7 +2086,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 64,
-   "rank": 62
+   "rank": 63
   },
   {
    "name": "dpgen",
@@ -2066,8 +2096,8 @@
    "owner": "deepmodeling",
    "owner_avatar": "https://avatars.githubusercontent.com/u/32671488?v=4",
    "stars": 396,
-   "forks": 197,
-   "open_issues": 89,
+   "forks": 198,
+   "open_issues": 90,
    "language": "Python",
    "license": "LGPL-3.0",
    "pushed_at": "2026-08-29T17:49:51Z",
@@ -2080,37 +2110,6 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 64,
-   "rank": 63
-  },
-  {
-   "name": "ai-learning-coach",
-   "full_name": "chrichuang218/ai-learning-coach",
-   "slug": "chrichuang218-ai-learning-coach",
-   "url": "https://github.com/chrichuang218/ai-learning-coach",
-   "owner": "chrichuang218",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/274725680?v=4",
-   "stars": 207,
-   "forks": 9,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-08-12T02:28:17Z",
-   "created_at": "2026-06-28T08:47:16Z",
-   "description": "AI private learning coach for Codex: learn through real projects, adaptive dialogue, debugging, evidence-based mastery, and visible progress.",
-   "topics": [
-    "active-learning",
-    "agent-skills",
-    "ai-learning",
-    "chinese",
-    "codex",
-    "codex-skills",
-    "deliberate-practice",
-    "developer-tools",
-    "learning-coach",
-    "project-based-learning"
-   ],
-   "category": "Versioning & Frameworks",
-   "momentum": 64,
    "rank": 64
   },
   {
@@ -2120,7 +2119,7 @@
    "url": "https://github.com/unsplash/datasets",
    "owner": "unsplash",
    "owner_avatar": "https://avatars.githubusercontent.com/u/9951955?v=4",
-   "stars": 2780,
+   "stars": 2781,
    "forks": 142,
    "open_issues": 5,
    "language": "Jupyter Notebook",
@@ -2277,13 +2276,94 @@
    "rank": 69
   },
   {
+   "name": "zgi",
+   "full_name": "zgiai/zgi",
+   "slug": "zgiai-zgi",
+   "url": "https://github.com/zgiai/zgi",
+   "owner": "zgiai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/44317354?v=4",
+   "stars": 322,
+   "forks": 17,
+   "open_issues": 3,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-30T14:56:22Z",
+   "created_at": "2024-08-18T17:32:30Z",
+   "description": "ZGI is an open-source platform for building AI applications. Its intuitive interface combines workflow design, agent orchestration, dataset management, and model integration—allowing you to quickly move from prototype to production.",
+   "topics": [],
+   "category": "Versioning & Frameworks",
+   "momentum": 63,
+   "rank": 70
+  },
+  {
+   "name": "SDGym",
+   "full_name": "sdv-dev/SDGym",
+   "slug": "sdv-dev-sdgym",
+   "url": "https://github.com/sdv-dev/SDGym",
+   "owner": "sdv-dev",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/59050321?v=4",
+   "stars": 311,
+   "forks": 68,
+   "open_issues": 26,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-31T15:49:02Z",
+   "created_at": "2019-02-27T22:46:19Z",
+   "description": "Benchmarking synthetic data generation methods.",
+   "topics": [
+    "benchmark",
+    "deep-learning",
+    "generative-adversarial-network",
+    "generative-ai",
+    "generative-models",
+    "sdgym-synthesizers",
+    "synthetic-data",
+    "synthetic-data-vault",
+    "tabular-data"
+   ],
+   "category": "Synthetic Data",
+   "momentum": 63,
+   "rank": 71
+  },
+  {
+   "name": "ai-learning-coach",
+   "full_name": "chrichuang218/ai-learning-coach",
+   "slug": "chrichuang218-ai-learning-coach",
+   "url": "https://github.com/chrichuang218/ai-learning-coach",
+   "owner": "chrichuang218",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/274725680?v=4",
+   "stars": 206,
+   "forks": 9,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-08-12T02:28:17Z",
+   "created_at": "2026-06-28T08:47:16Z",
+   "description": "AI private learning coach for Codex: learn through real projects, adaptive dialogue, debugging, evidence-based mastery, and visible progress.",
+   "topics": [
+    "active-learning",
+    "agent-skills",
+    "ai-learning",
+    "chinese",
+    "codex",
+    "codex-skills",
+    "deliberate-practice",
+    "developer-tools",
+    "learning-coach",
+    "project-based-learning"
+   ],
+   "category": "Versioning & Frameworks",
+   "momentum": 63,
+   "rank": 72
+  },
+  {
    "name": "easy-dataset",
    "full_name": "ConardLi/easy-dataset",
    "slug": "conardli-easy-dataset",
    "url": "https://github.com/ConardLi/easy-dataset",
    "owner": "ConardLi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30708545?v=4",
-   "stars": 14854,
+   "stars": 14861,
    "forks": 1527,
    "open_issues": 127,
    "language": "JavaScript",
@@ -2300,7 +2380,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 62,
-   "rank": 70
+   "rank": 73
   },
   {
    "name": "docta",
@@ -2328,7 +2408,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 62,
-   "rank": 71
+   "rank": 74
   },
   {
    "name": "intellagent",
@@ -2354,37 +2434,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 62,
-   "rank": 72
-  },
-  {
-   "name": "expressive-code",
-   "full_name": "expressive-code/expressive-code",
-   "slug": "expressive-code-expressive-code",
-   "url": "https://github.com/expressive-code/expressive-code",
-   "owner": "expressive-code",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/124694388?v=4",
-   "stars": 962,
-   "forks": 46,
-   "open_issues": 17,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-20T17:58:15Z",
-   "created_at": "2022-09-05T22:39:25Z",
-   "description": "A text marking & annotation engine for presenting source code on the web.",
-   "topics": [
-    "annotation-tool",
-    "code-annotation",
-    "code-blocks",
-    "code-documentation",
-    "diff",
-    "documentation-tool",
-    "syntax-highlighting",
-    "text-marker",
-    "web-development"
-   ],
-   "category": "Labeling & Annotation",
-   "momentum": 62,
-   "rank": 73
+   "rank": 75
   },
   {
    "name": "leed_pdf_viewer",
@@ -2417,37 +2467,41 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 62,
-   "rank": 74
+   "rank": 76
   },
   {
-   "name": "SDGym",
-   "full_name": "sdv-dev/SDGym",
-   "slug": "sdv-dev-sdgym",
-   "url": "https://github.com/sdv-dev/SDGym",
-   "owner": "sdv-dev",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/59050321?v=4",
-   "stars": 310,
-   "forks": 68,
-   "open_issues": 26,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-28T17:54:39Z",
-   "created_at": "2019-02-27T22:46:19Z",
-   "description": "Benchmarking synthetic data generation methods.",
+   "name": "markup",
+   "full_name": "samueldobbie/markup",
+   "slug": "samueldobbie-markup",
+   "url": "https://github.com/samueldobbie/markup",
+   "owner": "samueldobbie",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/22631229?v=4",
+   "stars": 270,
+   "forks": 32,
+   "open_issues": 15,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-08-31T15:14:17Z",
+   "created_at": "2019-02-21T18:39:57Z",
+   "description": "A web-based document annotation tool, powered by AI :rocket:",
    "topics": [
-    "benchmark",
-    "deep-learning",
-    "generative-adversarial-network",
-    "generative-ai",
-    "generative-models",
-    "sdgym-synthesizers",
-    "synthetic-data",
-    "synthetic-data-vault",
-    "tabular-data"
+    "active-learning",
+    "annotation-tool",
+    "data-labeling",
+    "data-science",
+    "gpt-4",
+    "machine-learning",
+    "named-entity-recognition",
+    "natural-language-processing",
+    "ner",
+    "nlp",
+    "sequence-to-sequence",
+    "text-annotation",
+    "text-annotation-tool"
    ],
-   "category": "Synthetic Data",
+   "category": "Labeling & Annotation",
    "momentum": 62,
-   "rank": 75
+   "rank": 77
   },
   {
    "name": "DataArc-SynData-Toolkit",
@@ -2467,7 +2521,7 @@
    "topics": [],
    "category": "Synthetic Data",
    "momentum": 61,
-   "rank": 76
+   "rank": 78
   },
   {
    "name": "myvision",
@@ -2508,41 +2562,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 61,
-   "rank": 77
-  },
-  {
-   "name": "markup",
-   "full_name": "samueldobbie/markup",
-   "slug": "samueldobbie-markup",
-   "url": "https://github.com/samueldobbie/markup",
-   "owner": "samueldobbie",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/22631229?v=4",
-   "stars": 270,
-   "forks": 32,
-   "open_issues": 18,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-08-24T22:29:26Z",
-   "created_at": "2019-02-21T18:39:57Z",
-   "description": "A web-based document annotation tool, powered by AI :rocket:",
-   "topics": [
-    "active-learning",
-    "annotation-tool",
-    "data-labeling",
-    "data-science",
-    "gpt-4",
-    "machine-learning",
-    "named-entity-recognition",
-    "natural-language-processing",
-    "ner",
-    "nlp",
-    "sequence-to-sequence",
-    "text-annotation",
-    "text-annotation-tool"
-   ],
-   "category": "Labeling & Annotation",
-   "momentum": 61,
-   "rank": 78
+   "rank": 79
   },
   {
    "name": "VLM-AutoYOLO",
@@ -2551,7 +2571,7 @@
    "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
    "owner": "Somnusochi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/14160184?v=4",
-   "stars": 221,
+   "stars": 222,
    "forks": 28,
    "open_issues": 2,
    "language": "Python",
@@ -2579,7 +2599,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 61,
-   "rank": 79
+   "rank": 80
   },
   {
    "name": "diffgram",
@@ -2589,7 +2609,7 @@
    "owner": "diffgram",
    "owner_avatar": "https://avatars.githubusercontent.com/u/41310671?v=4",
    "stars": 1909,
-   "forks": 135,
+   "forks": 134,
    "open_issues": 489,
    "language": "Python",
    "license": "NOASSERTION",
@@ -2616,7 +2636,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 60,
-   "rank": 80
+   "rank": 81
   },
   {
    "name": "scikit-activeml",
@@ -2630,7 +2650,7 @@
    "open_issues": 33,
    "language": "Python",
    "license": "BSD-3-Clause",
-   "pushed_at": "2026-08-26T11:17:39Z",
+   "pushed_at": "2026-08-31T10:27:56Z",
    "created_at": "2020-07-29T16:19:30Z",
    "description": "scikit-activeml: A Comprehensive and User-Friendly Active Learning Library for Reserach",
    "topics": [
@@ -2641,7 +2661,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 60,
-   "rank": 81
+   "rank": 82
   },
   {
    "name": "mamma",
@@ -2650,7 +2670,7 @@
    "url": "https://github.com/cuevhv/mamma",
    "owner": "cuevhv",
    "owner_avatar": "https://avatars.githubusercontent.com/u/10300397?v=4",
-   "stars": 787,
+   "stars": 788,
    "forks": 78,
    "open_issues": 1,
    "language": "Python",
@@ -2677,47 +2697,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 59,
-   "rank": 82
-  },
-  {
-   "name": "zgi",
-   "full_name": "zgiai/zgi",
-   "slug": "zgiai-zgi",
-   "url": "https://github.com/zgiai/zgi",
-   "owner": "zgiai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/44317354?v=4",
-   "stars": 321,
-   "forks": 17,
-   "open_issues": 3,
-   "language": "Go",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-09T13:57:05Z",
-   "created_at": "2024-08-18T17:32:30Z",
-   "description": "ZGI is an open-source platform for building AI applications. Its intuitive interface combines workflow design, agent orchestration, dataset management, and model integration—allowing you to quickly move from prototype to production.",
-   "topics": [],
-   "category": "Versioning & Frameworks",
-   "momentum": 59,
    "rank": 83
-  },
-  {
-   "name": "synthetic-data-examples",
-   "full_name": "NVIDIA-Omniverse/synthetic-data-examples",
-   "slug": "nvidia-omniverse-synthetic-data-examples",
-   "url": "https://github.com/NVIDIA-Omniverse/synthetic-data-examples",
-   "owner": "NVIDIA-Omniverse",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/57824658?v=4",
-   "stars": 170,
-   "forks": 25,
-   "open_issues": 5,
-   "language": "Jupyter Notebook",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-19T00:11:06Z",
-   "created_at": "2023-03-07T22:45:43Z",
-   "description": "Synthetic Data Generation Examples",
-   "topics": [],
-   "category": "Synthetic Data",
-   "momentum": 58,
-   "rank": 84
   },
   {
    "name": "sdg_hub",
@@ -2741,7 +2721,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 58,
-   "rank": 85
+   "rank": 84
   },
   {
    "name": "doccano",
@@ -2774,7 +2754,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 57,
-   "rank": 86
+   "rank": 85
   },
   {
    "name": "xtreme1",
@@ -2783,7 +2763,7 @@
    "url": "https://github.com/xtreme1-io/xtreme1",
    "owner": "xtreme1-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/120552187?v=4",
-   "stars": 1237,
+   "stars": 1238,
    "forks": 216,
    "open_issues": 46,
    "language": "TypeScript",
@@ -2809,6 +2789,26 @@
     "rlhf"
    ],
    "category": "Labeling & Annotation",
+   "momentum": 57,
+   "rank": 86
+  },
+  {
+   "name": "synthetic-data-examples",
+   "full_name": "NVIDIA-Omniverse/synthetic-data-examples",
+   "slug": "nvidia-omniverse-synthetic-data-examples",
+   "url": "https://github.com/NVIDIA-Omniverse/synthetic-data-examples",
+   "owner": "NVIDIA-Omniverse",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/57824658?v=4",
+   "stars": 170,
+   "forks": 25,
+   "open_issues": 5,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-19T00:11:06Z",
+   "created_at": "2023-03-07T22:45:43Z",
+   "description": "Synthetic Data Generation Examples",
+   "topics": [],
+   "category": "Synthetic Data",
    "momentum": 57,
    "rank": 87
   },
@@ -2847,8 +2847,38 @@
     "object-recognition"
    ],
    "category": "Labeling & Annotation",
-   "momentum": 57,
+   "momentum": 56,
    "rank": 88
+  },
+  {
+   "name": "labelImg",
+   "full_name": "HumanSignal/labelImg",
+   "slug": "humansignal-labelimg",
+   "url": "https://github.com/HumanSignal/labelImg",
+   "owner": "HumanSignal",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/48309720?v=4",
+   "stars": 25057,
+   "forks": 6582,
+   "open_issues": 451,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2024-06-07T20:24:32Z",
+   "created_at": "2015-09-17T01:33:59Z",
+   "description": "LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.",
+   "topics": [
+    "annotations",
+    "deep-learning",
+    "detection",
+    "image-classification",
+    "imagenet",
+    "python2",
+    "python3",
+    "recognition",
+    "tools"
+   ],
+   "category": "Labeling & Annotation",
+   "momentum": 54,
+   "rank": 89
   },
   {
    "name": "aisheets",
@@ -2874,36 +2904,6 @@
     "synthetic-data"
    ],
    "category": "Synthetic Data",
-   "momentum": 55,
-   "rank": 89
-  },
-  {
-   "name": "labelImg",
-   "full_name": "HumanSignal/labelImg",
-   "slug": "humansignal-labelimg",
-   "url": "https://github.com/HumanSignal/labelImg",
-   "owner": "HumanSignal",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/48309720?v=4",
-   "stars": 25059,
-   "forks": 6582,
-   "open_issues": 451,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2024-06-07T20:24:32Z",
-   "created_at": "2015-09-17T01:33:59Z",
-   "description": "LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.",
-   "topics": [
-    "annotations",
-    "deep-learning",
-    "detection",
-    "image-classification",
-    "imagenet",
-    "python2",
-    "python3",
-    "recognition",
-    "tools"
-   ],
-   "category": "Labeling & Annotation",
    "momentum": 54,
    "rank": 90
   },
@@ -2978,7 +2978,7 @@
    "owner": "lukas-blecher",
    "owner_avatar": "https://avatars.githubusercontent.com/u/55287601?v=4",
    "stars": 16550,
-   "forks": 1315,
+   "forks": 1314,
    "open_issues": 159,
    "language": "Python",
    "license": "MIT",
@@ -3015,8 +3015,8 @@
    "url": "https://github.com/zalandoresearch/fashion-mnist",
    "owner": "zalandoresearch",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30869512?v=4",
-   "stars": 12810,
-   "forks": 3070,
+   "stars": 12808,
+   "forks": 3069,
    "open_issues": 34,
    "language": "Python",
    "license": "MIT",
@@ -3039,30 +3039,6 @@
    "category": "Versioning & Frameworks",
    "momentum": 51,
    "rank": 94
-  },
-  {
-   "name": "Ditto",
-   "full_name": "EzioBy/Ditto",
-   "slug": "ezioby-ditto",
-   "url": "https://github.com/EzioBy/Ditto",
-   "owner": "EzioBy",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/29008595?v=4",
-   "stars": 624,
-   "forks": 52,
-   "open_issues": 21,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-01T08:32:04Z",
-   "created_at": "2025-10-19T14:36:40Z",
-   "description": "[CVPR'26 Highlight] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset",
-   "topics": [
-    "diffusion-models",
-    "synthetic-data",
-    "video-editing"
-   ],
-   "category": "Synthetic Data",
-   "momentum": 51,
-   "rank": 95
   },
   {
    "name": "Rectlabel-support",
@@ -3103,7 +3079,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 51,
-   "rank": 96
+   "rank": 95
   },
   {
    "name": "cleanlab",
@@ -3112,8 +3088,8 @@
    "url": "https://github.com/cleanlab/cleanlab",
    "owner": "cleanlab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/90712480?v=4",
-   "stars": 11639,
-   "forks": 921,
+   "stars": 11640,
+   "forks": 920,
    "open_issues": 122,
    "language": "Python",
    "license": "Apache-2.0",
@@ -3144,6 +3120,30 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 50,
+   "rank": 96
+  },
+  {
+   "name": "Ditto",
+   "full_name": "EzioBy/Ditto",
+   "slug": "ezioby-ditto",
+   "url": "https://github.com/EzioBy/Ditto",
+   "owner": "EzioBy",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/29008595?v=4",
+   "stars": 624,
+   "forks": 52,
+   "open_issues": 21,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-01T08:32:04Z",
+   "created_at": "2025-10-19T14:36:40Z",
+   "description": "[CVPR'26 Highlight] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset",
+   "topics": [
+    "diffusion-models",
+    "synthetic-data",
+    "video-editing"
+   ],
+   "category": "Synthetic Data",
+   "momentum": 50,
    "rank": 97
   },
   {
@@ -3153,7 +3153,7 @@
    "url": "https://github.com/brightmart/nlp_chinese_corpus",
    "owner": "brightmart",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19634224?v=4",
-   "stars": 9910,
+   "stars": 9911,
    "forks": 1552,
    "open_issues": 23,
    "language": "",
@@ -3286,31 +3286,6 @@
    "rank": 101
   },
   {
-   "name": "NCFM",
-   "full_name": "gszfwsb/NCFM",
-   "slug": "gszfwsb-ncfm",
-   "url": "https://github.com/gszfwsb/NCFM",
-   "owner": "gszfwsb",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/46512956?v=4",
-   "stars": 413,
-   "forks": 32,
-   "open_issues": 2,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2026-06-03T11:18:51Z",
-   "created_at": "2025-03-01T16:25:09Z",
-   "description": "Official PyTorch implementation of the paper \"Dataset Distillation with Neural Characteristic Function: A Minmax Perspective\" (NCFM) in CVPR 2025 (Full Score, Highlight).",
-   "topics": [
-    "computer-vision",
-    "data-centric-ai",
-    "dataset-distillation",
-    "synthetic-data"
-   ],
-   "category": "Synthetic Data",
-   "momentum": 49,
-   "rank": 102
-  },
-  {
    "name": "gromit-mpx",
    "full_name": "bk138/gromit-mpx",
    "slug": "bk138-gromit-mpx",
@@ -3347,35 +3322,32 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 48,
-   "rank": 103
+   "rank": 102
   },
   {
-   "name": "mostlyai",
-   "full_name": "mostly-ai/mostlyai",
-   "slug": "mostly-ai-mostlyai",
-   "url": "https://github.com/mostly-ai/mostlyai",
-   "owner": "mostly-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/8805950?v=4",
-   "stars": 793,
-   "forks": 66,
-   "open_issues": 1,
+   "name": "NCFM",
+   "full_name": "gszfwsb/NCFM",
+   "slug": "gszfwsb-ncfm",
+   "url": "https://github.com/gszfwsb/NCFM",
+   "owner": "gszfwsb",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/46512956?v=4",
+   "stars": 413,
+   "forks": 32,
+   "open_issues": 2,
    "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-05-08T15:52:04Z",
-   "created_at": "2023-12-22T12:00:11Z",
-   "description": "Synthetic Data SDK ✨",
+   "license": "",
+   "pushed_at": "2026-06-03T11:18:51Z",
+   "created_at": "2025-03-01T16:25:09Z",
+   "description": "Official PyTorch implementation of the paper \"Dataset Distillation with Neural Characteristic Function: A Minmax Perspective\" (NCFM) in CVPR 2025 (Full Score, Highlight).",
    "topics": [
-    "differential-privacy",
-    "generative-ai",
-    "machine-learning",
-    "privacy-enhancing-technologies",
-    "synthetic-data",
-    "synthetic-data-generation",
-    "synthetic-data-generator"
+    "computer-vision",
+    "data-centric-ai",
+    "dataset-distillation",
+    "synthetic-data"
    ],
    "category": "Synthetic Data",
    "momentum": 48,
-   "rank": 104
+   "rank": 103
   },
   {
    "name": "quickdraw-dataset",
@@ -3384,7 +3356,7 @@
    "url": "https://github.com/googlecreativelab/quickdraw-dataset",
    "owner": "googlecreativelab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4741861?v=4",
-   "stars": 6801,
+   "stars": 6803,
    "forks": 1080,
    "open_issues": 32,
    "language": "",
@@ -3398,7 +3370,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 47,
-   "rank": 105
+   "rank": 104
   },
   {
    "name": "EasyPR",
@@ -3408,7 +3380,7 @@
    "owner": "liuruoze",
    "owner_avatar": "https://avatars.githubusercontent.com/u/8255297?v=4",
    "stars": 6429,
-   "forks": 2466,
+   "forks": 2465,
    "open_issues": 88,
    "language": "C++",
    "license": "Apache-2.0",
@@ -3431,7 +3403,61 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 47,
+   "rank": 105
+  },
+  {
+   "name": "mostlyai",
+   "full_name": "mostly-ai/mostlyai",
+   "slug": "mostly-ai-mostlyai",
+   "url": "https://github.com/mostly-ai/mostlyai",
+   "owner": "mostly-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/8805950?v=4",
+   "stars": 794,
+   "forks": 67,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-05-08T15:52:04Z",
+   "created_at": "2023-12-22T12:00:11Z",
+   "description": "Synthetic Data SDK ✨",
+   "topics": [
+    "differential-privacy",
+    "generative-ai",
+    "machine-learning",
+    "privacy-enhancing-technologies",
+    "synthetic-data",
+    "synthetic-data-generation",
+    "synthetic-data-generator"
+   ],
+   "category": "Synthetic Data",
+   "momentum": 47,
    "rank": 106
+  },
+  {
+   "name": "aerial_wildlife_detection",
+   "full_name": "microsoft/aerial_wildlife_detection",
+   "slug": "microsoft-aerial-wildlife-detection",
+   "url": "https://github.com/microsoft/aerial_wildlife_detection",
+   "owner": "microsoft",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+   "stars": 245,
+   "forks": 62,
+   "open_issues": 29,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-06-10T20:45:23Z",
+   "created_at": "2019-07-18T23:58:41Z",
+   "description": "Tools for detecting wildlife in aerial images using active learning",
+   "topics": [
+    "active-learning",
+    "aerial-imagery",
+    "aiforearth",
+    "conservation",
+    "wildlife"
+   ],
+   "category": "Labeling & Annotation",
+   "momentum": 47,
+   "rank": 107
   },
   {
    "name": "truvari",
@@ -3461,33 +3487,7 @@
     "vcf-comparison"
    ],
    "category": "Labeling & Annotation",
-   "momentum": 47,
-   "rank": 107
-  },
-  {
-   "name": "aerial_wildlife_detection",
-   "full_name": "microsoft/aerial_wildlife_detection",
-   "slug": "microsoft-aerial-wildlife-detection",
-   "url": "https://github.com/microsoft/aerial_wildlife_detection",
-   "owner": "microsoft",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 245,
-   "forks": 62,
-   "open_issues": 29,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-10T20:45:23Z",
-   "created_at": "2019-07-18T23:58:41Z",
-   "description": "Tools for detecting wildlife in aerial images using active learning",
-   "topics": [
-    "active-learning",
-    "aerial-imagery",
-    "aiforearth",
-    "conservation",
-    "wildlife"
-   ],
-   "category": "Labeling & Annotation",
-   "momentum": 47,
+   "momentum": 46,
    "rank": 108
   },
   {
@@ -3586,7 +3586,7 @@
    "owner": "microsoft",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
    "stars": 4429,
-   "forks": 832,
+   "forks": 831,
    "open_issues": 246,
    "language": "TypeScript",
    "license": "MIT",
@@ -3646,7 +3646,7 @@
    "url": "https://github.com/whoiskatrin/sql-translator",
    "owner": "whoiskatrin",
    "owner_avatar": "https://avatars.githubusercontent.com/u/8017908?v=4",
-   "stars": 4321,
+   "stars": 4320,
    "forks": 376,
    "open_issues": 7,
    "language": "TypeScript",
@@ -3676,7 +3676,7 @@
    "url": "https://github.com/CLUEbenchmark/CLUE",
    "owner": "CLUEbenchmark",
    "owner_avatar": "https://avatars.githubusercontent.com/u/58067509?v=4",
-   "stars": 4279,
+   "stars": 4278,
    "forks": 544,
    "open_issues": 80,
    "language": "Python",
@@ -3752,7 +3752,7 @@
    "url": "https://github.com/Charmve/Surface-Defect-Detection",
    "owner": "Charmve",
    "owner_avatar": "https://avatars.githubusercontent.com/u/29084184?v=4",
-   "stars": 4103,
+   "stars": 4105,
    "forks": 611,
    "open_issues": 16,
    "language": "Python",
@@ -3784,9 +3784,9 @@
    "url": "https://github.com/onyx-dot-app/EnterpriseRAG-Bench",
    "owner": "onyx-dot-app",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131946000?v=4",
-   "stars": 536,
-   "forks": 56,
-   "open_issues": 11,
+   "stars": 537,
+   "forks": 57,
+   "open_issues": 12,
    "language": "",
    "license": "MIT",
    "pushed_at": "2026-05-08T02:57:41Z",
@@ -3824,7 +3824,7 @@
    "url": "https://github.com/Belval/TextRecognitionDataGenerator",
    "owner": "Belval",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5399488?v=4",
-   "stars": 3691,
+   "stars": 3692,
    "forks": 1014,
    "open_issues": 165,
    "language": "Python",
@@ -3853,7 +3853,7 @@
    "url": "https://github.com/linhandev/dataset",
    "owner": "linhandev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/29757093?v=4",
-   "stars": 3605,
+   "stars": 3606,
    "forks": 428,
    "open_issues": 46,
    "language": "",
@@ -3884,7 +3884,7 @@
    "url": "https://github.com/ZhaoJ9014/face.evoLVe",
    "owner": "ZhaoJ9014",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25601090?v=4",
-   "stars": 3590,
+   "stars": 3589,
    "forks": 760,
    "open_issues": 96,
    "language": "Python",
@@ -3977,7 +3977,7 @@
    "url": "https://github.com/waymo-research/waymo-open-dataset",
    "owner": "waymo-research",
    "owner_avatar": "https://avatars.githubusercontent.com/u/49494974?v=4",
-   "stars": 3400,
+   "stars": 3403,
    "forks": 699,
    "open_issues": 463,
    "language": "Python",
@@ -4249,7 +4249,7 @@
    "owner": "justinzm",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6271369?v=4",
    "stars": 2548,
-   "forks": 381,
+   "forks": 380,
    "open_issues": 66,
    "language": "Python",
    "license": "",
@@ -4320,7 +4320,7 @@
    "owner": "modAL-python",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42179679?v=4",
    "stars": 2363,
-   "forks": 324,
+   "forks": 323,
    "open_issues": 108,
    "language": "Python",
    "license": "MIT",
@@ -4408,39 +4408,6 @@
    "rank": 137
   },
   {
-   "name": "alice",
-   "full_name": "simoncirstoiu/alice",
-   "slug": "simoncirstoiu-alice",
-   "url": "https://github.com/simoncirstoiu/alice",
-   "owner": "simoncirstoiu",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/46245735?v=4",
-   "stars": 387,
-   "forks": 39,
-   "open_issues": 0,
-   "language": "JavaScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-04-26T17:51:53Z",
-   "created_at": "2026-04-19T09:32:31Z",
-   "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-   "topics": [
-    "ai",
-    "ai-tools",
-    "annotation",
-    "computer-vision",
-    "dataset",
-    "frigate",
-    "nvidia-cuda",
-    "nvidia-smi",
-    "nvr",
-    "object-detection",
-    "training",
-    "yolo"
-   ],
-   "category": "Labeling & Annotation",
-   "momentum": 42,
-   "rank": 138
-  },
-  {
    "name": "voice_datasets",
    "full_name": "jim-schwoebel/voice_datasets",
    "slug": "jim-schwoebel-voice-datasets",
@@ -4477,7 +4444,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 41,
-   "rank": 139
+   "rank": 138
   },
   {
    "name": "ogb",
@@ -4502,7 +4469,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 41,
-   "rank": 140
+   "rank": 139
   },
   {
    "name": "universal-data-tool",
@@ -4511,8 +4478,8 @@
    "url": "https://github.com/UniversalDataTool/universal-data-tool",
    "owner": "UniversalDataTool",
    "owner_avatar": "https://avatars.githubusercontent.com/u/45975928?v=4",
-   "stars": 2072,
-   "forks": 201,
+   "stars": 2071,
+   "forks": 200,
    "open_issues": 168,
    "language": "JavaScript",
    "license": "MIT",
@@ -4543,7 +4510,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 41,
-   "rank": 141
+   "rank": 140
   },
   {
    "name": "DB-GPT-Hub",
@@ -4573,6 +4540,39 @@
     "text2sql"
    ],
    "category": "Collections & Hubs",
+   "momentum": 41,
+   "rank": 141
+  },
+  {
+   "name": "alice",
+   "full_name": "simoncirstoiu/alice",
+   "slug": "simoncirstoiu-alice",
+   "url": "https://github.com/simoncirstoiu/alice",
+   "owner": "simoncirstoiu",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/46245735?v=4",
+   "stars": 387,
+   "forks": 39,
+   "open_issues": 0,
+   "language": "JavaScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-04-26T17:51:53Z",
+   "created_at": "2026-04-19T09:32:31Z",
+   "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+   "topics": [
+    "ai",
+    "ai-tools",
+    "annotation",
+    "computer-vision",
+    "dataset",
+    "frigate",
+    "nvidia-cuda",
+    "nvidia-smi",
+    "nvr",
+    "object-detection",
+    "training",
+    "yolo"
+   ],
+   "category": "Labeling & Annotation",
    "momentum": 41,
    "rank": 142
   },
@@ -4980,7 +4980,7 @@
    "url": "https://github.com/daochenzha/data-centric-AI",
    "owner": "daochenzha",
    "owner_avatar": "https://avatars.githubusercontent.com/u/24754747?v=4",
-   "stars": 1158,
+   "stars": 1159,
    "forks": 82,
    "open_issues": 2,
    "language": "",
@@ -5032,31 +5032,6 @@
    "rank": 157
   },
   {
-   "name": "data-centric-ai",
-   "full_name": "HazyResearch/data-centric-ai",
-   "slug": "hazyresearch-data-centric-ai",
-   "url": "https://github.com/HazyResearch/data-centric-ai",
-   "owner": "HazyResearch",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/2165246?v=4",
-   "stars": 1147,
-   "forks": 120,
-   "open_issues": 13,
-   "language": "TeX",
-   "license": "Apache-2.0",
-   "pushed_at": "2023-12-13T09:58:57Z",
-   "created_at": "2021-06-11T19:07:11Z",
-   "description": "Resources for Data Centric AI",
-   "topics": [
-    "ai",
-    "artificial-intelligence",
-    "data-centric-ai",
-    "machine-learning"
-   ],
-   "category": "Versioning & Frameworks",
-   "momentum": 38,
-   "rank": 158
-  },
-  {
    "name": "audino",
    "full_name": "midas-research/audino",
    "slug": "midas-research-audino",
@@ -5081,6 +5056,31 @@
     "speech-processing"
    ],
    "category": "Labeling & Annotation",
+   "momentum": 38,
+   "rank": 158
+  },
+  {
+   "name": "data-centric-ai",
+   "full_name": "HazyResearch/data-centric-ai",
+   "slug": "hazyresearch-data-centric-ai",
+   "url": "https://github.com/HazyResearch/data-centric-ai",
+   "owner": "HazyResearch",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/2165246?v=4",
+   "stars": 1146,
+   "forks": 120,
+   "open_issues": 13,
+   "language": "TeX",
+   "license": "Apache-2.0",
+   "pushed_at": "2023-12-13T09:58:57Z",
+   "created_at": "2021-06-11T19:07:11Z",
+   "description": "Resources for Data Centric AI",
+   "topics": [
+    "ai",
+    "artificial-intelligence",
+    "data-centric-ai",
+    "machine-learning"
+   ],
+   "category": "Versioning & Frameworks",
    "momentum": 38,
    "rank": 159
   },
@@ -5443,7 +5443,7 @@
    "url": "https://github.com/nicolas-hbt/pygraft",
    "owner": "nicolas-hbt",
    "owner_avatar": "https://avatars.githubusercontent.com/u/62713610?v=4",
-   "stars": 714,
+   "stars": 715,
    "forks": 53,
    "open_issues": 3,
    "language": "Python",
@@ -5741,7 +5741,7 @@
    "url": "https://github.com/sparkfish/augraphy",
    "owner": "sparkfish",
    "owner_avatar": "https://avatars.githubusercontent.com/u/24844869?v=4",
-   "stars": 573,
+   "stars": 574,
    "forks": 63,
    "open_issues": 22,
    "language": "Python",
@@ -6038,42 +6038,6 @@
    "rank": 191
   },
   {
-   "name": "hover",
-   "full_name": "phurwicz/hover",
-   "slug": "phurwicz-hover",
-   "url": "https://github.com/phurwicz/hover",
-   "owner": "phurwicz",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/74003834?v=4",
-   "stars": 330,
-   "forks": 19,
-   "open_issues": 4,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-03-17T03:21:12Z",
-   "created_at": "2020-11-05T13:43:55Z",
-   "description": ":speedboat: Label data at scale. Fun and precision included.",
-   "topics": [
-    "annotation-tool",
-    "audio-classification",
-    "audio-labeling",
-    "bokeh",
-    "bulk-labeling",
-    "data-labeling",
-    "image-classification",
-    "image-labeling",
-    "labeling",
-    "labeling-tool",
-    "machine-learning",
-    "supervised-learning",
-    "text-classification",
-    "text-labeling",
-    "visualization"
-   ],
-   "category": "Labeling & Annotation",
-   "momentum": 34,
-   "rank": 192
-  },
-  {
    "name": "pyDVL",
    "full_name": "aai-institute/pyDVL",
    "slug": "aai-institute-pydvl",
@@ -6105,7 +6069,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 34,
-   "rank": 193
+   "rank": 192
   },
   {
    "name": "prodigy-recipes",
@@ -6140,7 +6104,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 194
+   "rank": 193
   },
   {
    "name": "pba",
@@ -6172,6 +6136,34 @@
     "tensorflow"
    ],
    "category": "Augmentation",
+   "momentum": 33,
+   "rank": 194
+  },
+  {
+   "name": "dcai-lab",
+   "full_name": "dcai-course/dcai-lab",
+   "slug": "dcai-course-dcai-lab",
+   "url": "https://github.com/dcai-course/dcai-lab",
+   "owner": "dcai-course",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/119808059?v=4",
+   "stars": 485,
+   "forks": 162,
+   "open_issues": 4,
+   "language": "Jupyter Notebook",
+   "license": "AGPL-3.0",
+   "pushed_at": "2025-02-24T15:58:39Z",
+   "created_at": "2022-12-05T19:12:40Z",
+   "description": "Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻",
+   "topics": [
+    "course",
+    "data-centric-ai",
+    "data-science",
+    "deep-learning",
+    "homework",
+    "lab",
+    "machine-learning"
+   ],
+   "category": "Versioning & Frameworks",
    "momentum": 33,
    "rank": 195
   },
@@ -6205,34 +6197,6 @@
    "category": "Augmentation",
    "momentum": 33,
    "rank": 196
-  },
-  {
-   "name": "dcai-lab",
-   "full_name": "dcai-course/dcai-lab",
-   "slug": "dcai-course-dcai-lab",
-   "url": "https://github.com/dcai-course/dcai-lab",
-   "owner": "dcai-course",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/119808059?v=4",
-   "stars": 484,
-   "forks": 162,
-   "open_issues": 4,
-   "language": "Jupyter Notebook",
-   "license": "AGPL-3.0",
-   "pushed_at": "2025-02-24T15:58:39Z",
-   "created_at": "2022-12-05T19:12:40Z",
-   "description": "Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻",
-   "topics": [
-    "course",
-    "data-centric-ai",
-    "data-science",
-    "deep-learning",
-    "homework",
-    "lab",
-    "machine-learning"
-   ],
-   "category": "Versioning & Frameworks",
-   "momentum": 33,
-   "rank": 197
   },
   {
    "name": "coursera-gan-specialization",
@@ -6273,7 +6237,7 @@
    ],
    "category": "Augmentation",
    "momentum": 33,
-   "rank": 198
+   "rank": 197
   },
   {
    "name": "labelGo",
@@ -6302,7 +6266,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 199
+   "rank": 198
   },
   {
    "name": "imagecorruptions",
@@ -6327,7 +6291,7 @@
    ],
    "category": "Augmentation",
    "momentum": 33,
-   "rank": 200
+   "rank": 199
   },
   {
    "name": "mixup",
@@ -6353,7 +6317,7 @@
    ],
    "category": "Augmentation",
    "momentum": 33,
-   "rank": 201
+   "rank": 200
   },
   {
    "name": "Entity-Recognition-In-Resumes-SpaCy",
@@ -6381,7 +6345,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 202
+   "rank": 201
   },
   {
    "name": "encord-active",
@@ -6421,7 +6385,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 203
+   "rank": 202
   },
   {
    "name": "image_augmentor",
@@ -6445,7 +6409,7 @@
    ],
    "category": "Augmentation",
    "momentum": 33,
-   "rank": 204
+   "rank": 203
   },
   {
    "name": "label-studio-frontend",
@@ -6480,7 +6444,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 205
+   "rank": 204
   },
   {
    "name": "PCAT_open_source",
@@ -6503,7 +6467,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 206
+   "rank": 205
   },
   {
    "name": "toolbox",
@@ -6528,7 +6492,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 207
+   "rank": 206
   },
   {
    "name": "scaper",
@@ -6557,6 +6521,42 @@
     "synthesis"
    ],
    "category": "Augmentation",
+   "momentum": 33,
+   "rank": 207
+  },
+  {
+   "name": "hover",
+   "full_name": "phurwicz/hover",
+   "slug": "phurwicz-hover",
+   "url": "https://github.com/phurwicz/hover",
+   "owner": "phurwicz",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/74003834?v=4",
+   "stars": 330,
+   "forks": 19,
+   "open_issues": 4,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-03-17T03:21:12Z",
+   "created_at": "2020-11-05T13:43:55Z",
+   "description": ":speedboat: Label data at scale. Fun and precision included.",
+   "topics": [
+    "annotation-tool",
+    "audio-classification",
+    "audio-labeling",
+    "bokeh",
+    "bulk-labeling",
+    "data-labeling",
+    "image-classification",
+    "image-labeling",
+    "labeling",
+    "labeling-tool",
+    "machine-learning",
+    "supervised-learning",
+    "text-classification",
+    "text-labeling",
+    "visualization"
+   ],
+   "category": "Labeling & Annotation",
    "momentum": 33,
    "rank": 208
   },
