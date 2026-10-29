@@ -24,10 +24,10 @@
   <url><loc>https://dataset.kymatalabs.com/p/sdv-dev-sdv/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/ruc-nlpir-flashrag/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/argilla-io-distilabel/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/webbreacher-whatsmyname/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/logpai-loghub/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/opencsgs-csghub/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/synthetichealth-synthea/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/webbreacher-whatsmyname/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/torchio-project-torchio/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/yatenglg-isat-with-segment-anything/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/hitsz-ids-synthetic-data-generator/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -43,25 +43,25 @@
   <url><loc>https://dataset.kymatalabs.com/p/jtheoof-swappy/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/asreview-asreview/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/expressive-code-expressive-code/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/dokieli-dokieli/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/project-monai-monailabel/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/cuevhv-mamma/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/mostly-ai-mostlyai/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/hasaneyldrm-exercises-dataset/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/dmytrovasin-drawpen/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/project-monai-monailabel/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/dokieli-dokieli/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/nolabs-ai-deepfabric/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/annotorious-annotorious/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/inception-project-inception/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/eclipse-inception-inception/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/open-edge-platform-datumaro/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/sdv-dev-copulas/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/isl-org-open3d-ml/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/albumentations-team-albumentationsx/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/l3p-cv-lost/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/emdgroup-baybe/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/huggingface-aisheets/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/xtreme1-io-xtreme1/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/ntucllab-libact/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/webis-de-small-text/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/albumentations-team-albumentationsx/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/expectedparrot-edsl/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/davidjurgens-potato/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/experimental-design-bofire/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -71,20 +71,20 @@
   <url><loc>https://dataset.kymatalabs.com/p/dataarctech-dataarc-syndata-toolkit/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/rudi-q-leed-pdf-viewer/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/zekainie-universal-examprep-skill/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/yihong1120-construction-hazard-detection/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/sdv-dev-sdgym/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/znxzsy-alignledger/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/qdata-textattack/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/data-centric-ai-community-fg-data-synthetic/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/plurai-ai-intellagent/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/yihong1120-construction-hazard-detection/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/visual-layer-fastdup/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/bk138-gromit-mpx/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/samueldobbie-markup/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/zgiai-zgi/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/bk138-gromit-mpx/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/acenglish-truvari/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/red-hat-ai-innovation-team-sdg-hub/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/weecology-retriever/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/chrichuang218-ai-learning-coach/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/red-hat-ai-innovation-team-sdg-hub/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/pydata-pandas-datareader/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/sdv-dev-deepecho/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/internscience-graphgen/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -103,10 +103,10 @@
   <url><loc>https://dataset.kymatalabs.com/p/evolvent-ai-rsibench-data/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/cleanlab-cleanlab/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/doccano-doccano/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/diffgram-diffgram/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/ovidijusparsiunas-myvision/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/nvidia-omniverse-synthetic-data-examples/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/brightmart-nlp-chinese-corpus/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/diffgram-diffgram/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/googlecreativelab-quickdraw-dataset/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/liuruoze-easypr/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/shoumikchow-bbox-visualizer/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
