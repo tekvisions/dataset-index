@@ -3,14 +3,14 @@
 > The living index of data-centric AI tooling — data labeling & annotation, synthetic
 > data, curation & quality, augmentation, and dataset frameworks — ranked daily by GitHub momentum.
 
-Updated: 2026-10-30T20:58:59.183094+00:00
+Updated: 2026-10-30T21:34:24.985566+00:00
 Tools indexed: 253
 
 ## Top data-centric AI tools by momentum
 
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) — momentum 87, ⭐28589 — Labeling & Annotation — Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) — momentum 87, ⭐3352 — Versioning & Frameworks — 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-s
-- [dolthub/dolt](https://github.com/dolthub/dolt) — momentum 86, ⭐24775 — Versioning & Frameworks — Dolt – Git for Data
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) — momentum 87, ⭐28590 — Labeling & Annotation — Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) — momentum 87, ⭐3353 — Versioning & Frameworks — 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-s
+- [dolthub/dolt](https://github.com/dolthub/dolt) — momentum 86, ⭐24776 — Versioning & Frameworks — Dolt – Git for Data
 - [huggingface/datasets](https://github.com/huggingface/datasets) — momentum 86, ⭐22097 — Collections & Hubs — 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data m
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) — momentum 85, ⭐21642 — Synthetic Data — Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [joke2k/faker](https://github.com/joke2k/faker) — momentum 85, ⭐19473 — Synthetic Data — Faker is a Python package that generates fake data for you.
