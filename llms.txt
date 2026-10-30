@@ -3,7 +3,7 @@
 > The living index of data-centric AI tooling — data labeling & annotation, synthetic
 > data, curation & quality, augmentation, and dataset frameworks — ranked daily by GitHub momentum.
 
-Updated: 2026-10-30T21:34:24.985566+00:00
+Updated: 2026-10-30T21:55:39.068377+00:00
 Tools indexed: 253
 
 ## Top data-centric AI tools by momentum

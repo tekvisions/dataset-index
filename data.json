@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:34:24.985566+00:00",
+ "generated_at": "2026-10-30T21:55:39.068377+00:00",
  "count": 253,
  "categories": [
   {
@@ -40,7 +40,7 @@
    "open_issues": 959,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T21:28:26Z",
+   "pushed_at": "2026-10-30T21:47:57Z",
    "created_at": "2019-06-19T02:00:44Z",
    "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
    "topics": [
@@ -110,11 +110,11 @@
    "owner": "dolthub",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42156961?v=4",
    "stars": 24776,
-   "forks": 906,
-   "open_issues": 651,
+   "forks": 907,
+   "open_issues": 652,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T21:07:09Z",
+   "pushed_at": "2026-10-30T21:37:41Z",
    "created_at": "2019-07-24T17:46:25Z",
    "description": "Dolt – Git for Data",
    "topics": [
@@ -152,7 +152,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
    "stars": 22097,
    "forks": 3581,
-   "open_issues": 1553,
+   "open_issues": 1554,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-10-30T14:50:40Z",
@@ -365,7 +365,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/9599?v=4",
    "stars": 11528,
    "forks": 941,
-   "open_issues": 710,
+   "open_issues": 712,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-10-23T13:04:41Z",
@@ -1163,10 +1163,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/275206488?v=4",
    "stars": 1650,
    "forks": 163,
-   "open_issues": 5,
+   "open_issues": 4,
    "language": "Python",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-10-30T21:13:22Z",
+   "pushed_at": "2026-10-30T21:55:20Z",
    "created_at": "2026-04-11T03:50:12Z",
    "description": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.",
    "topics": [
@@ -1319,7 +1319,7 @@
    "open_issues": 37,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T20:26:40Z",
+   "pushed_at": "2026-10-30T21:52:03Z",
    "created_at": "2022-08-01T21:57:25Z",
    "description": "Lightning fast data version control system for large repositories of data. Feels like git, pushes and pulls like oxen.",
    "topics": [
