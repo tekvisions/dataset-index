@@ -69,3 +69,23 @@ Ranked entries are tools that build, label, synthesize, curate or serve ML datas
 Only explicitly reviewed identities are withheld from ranked results; other entries retain their existing automated inclusion status, not independent verification.
 Existing momentum scores retain their original source-snapshot basis; core ranks and category counts are recounted. Future refreshes exclude these reviewed identities before score normalization.
 - [designfuchen/word-atlas](https://dataset.kymatalabs.com/p/designfuchen-word-atlas/) — unranked inclusion-review reference, reviewed 2026-11-03: A vocabulary application with downloadable content data and separate code/content licensing considerations, retained as related context.
+
+<!-- Kymata discovery capabilities -->
+## Mission and scope
+Kymata Labs makes open-source AI tools, models and infrastructure easier to understand through focused, source-backed indexes. We publish dated source signals, explain ranking methods and limitations, and separate advertising from ranking and inclusion.
+
+Explore tools to create, label, curate and manage machine-learning data.
+
+## Supported capabilities
+- Browse dated catalog records and published detail pages
+- Search the catalog locally in the browser; raw search text is not sent by these controls.
+- Use the available catalog category filters and sorting controls
+- Read source references, snapshot dates, methodology, selection guidance and evidence limits.
+
+## Evidence limits
+- Snapshot signals are not proof of quality, safety, license suitability or fitness for a project. Verify upstream sources before adoption.
+- Search and filters are browser controls; this description does not advertise a remote search API or an MCP endpoint.
+- Crawl permission and machine-readable descriptions do not guarantee crawling, indexing, ranking or AI citation.
+
+- [Machine-readable capabilities, resources and dated coverage](https://dataset.kymatalabs.com/capabilities.json)
+- The capabilities document uses Kymata's descriptive format; it is not a standard agent tool protocol.
