@@ -14,6 +14,7 @@ Only the GitHub *search* payload is used. Env: GITHUB_TOKEN (required for a usab
 from __future__ import annotations
 
 import json
+from inclusion_gate import apply as apply_inclusion, include_core_repository
 import math
 import os
 import re
@@ -207,7 +208,7 @@ def build_items() -> list[dict]:
             if full and full not in seen and is_data(r):
                 seen[full] = r
         time.sleep(0.7)
-    raw = list(seen.values())
+    raw = [row for row in seen.values() if include_core_repository(row.get("full_name"), HERE)]
     max_stars = max((r.get("stargazers_count", 0) or 0) for r in raw) if raw else 10
     items = []
     for r in raw:
@@ -236,6 +237,7 @@ def write_json(items: list[dict]) -> dict:
     data = {"generated_at": datetime.now(timezone.utc).isoformat(), "count": len(items),
             "categories": [{"name": k, "count": v} for k, v in sorted(cats.items(), key=lambda x: -x[1])],
             "items": items}
+    data = apply_inclusion(data, HERE)
     with open(os.path.join(HERE, "data.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     return data
@@ -245,7 +247,7 @@ def write_seo(data: dict) -> None:
     items = data["items"]
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     urls = [f"  <url><loc>{SITE_URL}/</loc><lastmod>{now}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>"]
-    for it in items:
+    for it in items + data.get("review_references", []):
         urls.append(f"  <url><loc>{SITE_URL}/p/{it['slug']}/</loc><lastmod>{now}</lastmod>"
                     f"<changefreq>weekly</changefreq><priority>0.6</priority></url>")
     open(os.path.join(HERE, "sitemap.xml"), "w", encoding="utf-8").write(

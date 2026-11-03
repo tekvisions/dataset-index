@@ -27,17 +27,25 @@ def _font(paths, size):
     return ImageFont.load_default()
 
 
+def _fit_font(draw, paths, lines, size, width):
+    font = _font(paths, size)
+    while max(draw.textlength(line, font=font) for line in lines) > width and size > 12:
+        size -= 1
+        font = _font(paths, size)
+    return font
+
+
 def main() -> int:
     try:
         from PIL import Image, ImageDraw
+        from PIL.PngImagePlugin import PngInfo
     except Exception:
-        print("Pillow not available — skipping og.png")
-        return 0
+        raise RuntimeError("Pillow is required to rebuild the reviewed-count share card")
     try:
         data = json.load(open(os.path.join(HERE, "data.json"), encoding="utf-8"))
         count, cats = data.get("count", 0), len(data.get("categories", []))
     except Exception:
-        count, cats = 0, 0
+        raise ValueError("A valid curated catalog snapshot is required for the share card")
 
     W, H = 1200, 630
     img = Image.new("RGB", (W, H), BG)
@@ -54,7 +62,7 @@ def main() -> int:
             "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
     mono = ["/System/Library/Fonts/Menlo.ttc", "/System/Library/Fonts/Monaco.ttf",
             "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf"]
-    f_h1 = _font(bold, 92)
+    f_h1 = _fit_font(d, bold, ["The data-centric AI", "stack, catalogued."], 92, W - 132)
     f_kick = _font(mono, 24)
     f_stat = _font(mono, 27)
 
@@ -81,10 +89,17 @@ def main() -> int:
     for i in range(36):
         col = VERM if i % 6 == 0 else CELL
         d.rounded_rectangle([70 + i * 30, cy, 70 + i * 30 + 20, cy + 20], radius=3, fill=col if i < 30 else GRID)
-    d.text((70, 540), f"{count} tools  ·  {cats} categories  ·  ranked daily by GitHub momentum",
-           font=f_stat, fill=MUTED)
+    footer = f"{count} ranked tools  ·  {cats} categories  ·  snapshot {data['generated_at'][:10]}"
+    f_stat = _fit_font(d, mono, [footer], 27, W - 140)
+    d.text((70, 540), footer, font=f_stat, fill=MUTED)
 
-    img.save(os.path.join(HERE, "og.png"))
+    metadata = PngInfo()
+    metadata.add_text("CatalogCount", str(count))
+    metadata.add_text("CatalogScope", "ranked core entries; unranked review references excluded")
+    metadata.add_text("SourceSnapshot", data["generated_at"])
+    metadata.add_text("FooterText", footer)
+    metadata.add_text("FooterWidth", str(d.textlength(footer, font=f_stat)))
+    img.save(os.path.join(HERE, "og.png"), pnginfo=metadata)
     print(f"wrote og.png ({count} tools)")
     return 0
 

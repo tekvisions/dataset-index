@@ -3,6 +3,8 @@
 Fully SEO'd (title/meta/canonical/OG + SoftwareSourceCode JSON-LD + breadcrumb). Run after build_data.py."""
 from __future__ import annotations
 
+import html_json
+from inclusion_gate import apply as apply_inclusion, render_references, include_core_repository
 import html
 import json
 import os
@@ -53,6 +55,8 @@ def rel_card(r: dict) -> str:
 
 
 def page(it: dict, related: list[dict]) -> str:
+    if not include_core_repository(it["full_name"], HERE):
+        raise ValueError("Reviewed reference must use the unranked reference renderer")
     title = f"{it['full_name']} — {it['category']} | {SITE_NAME}"
     desc = (it["description"] or f"{it['full_name']}, a {it['category']} tool on {SITE_NAME}.")[:300]
     url = f"{SITE_URL}/p/{it['slug']}/"
@@ -62,8 +66,12 @@ def page(it: dict, related: list[dict]) -> str:
     rel = "".join(rel_card(r) for r in related)
     ld = {"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": it["full_name"],
           "description": desc, "url": url, "codeRepository": it["url"],
-          "programmingLanguage": it.get("language") or "Python",
-          "author": {"@type": "Person", "name": it["owner"]}, "license": it.get("license") or ""}
+          "programmingLanguage": it.get("language"),
+           "license": it.get("license") or ""}
+    if not ld.get("programmingLanguage"):
+        ld.pop("programmingLanguage", None)
+    if ld.get("license") in (None, "", "NOASSERTION", "OTHER"):
+        ld.pop("license", None)
     crumb = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
         {"@type": "ListItem", "position": 1, "name": SITE_NAME, "item": SITE_URL + "/"},
         {"@type": "ListItem", "position": 2, "name": it["full_name"], "item": url}]}
@@ -87,8 +95,8 @@ def page(it: dict, related: list[dict]) -> str:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="{FONTS}" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
-<script type="application/ld+json">{json.dumps(ld)}</script>
-<script type="application/ld+json">{json.dumps(crumb)}</script>
+<script type="application/ld+json">{html_json.dumps(ld)}</script>
+<script type="application/ld+json">{html_json.dumps(crumb)}</script>
 <script>var t;try{{t=localStorage.getItem('dsx-theme')}}catch(e){{}}if(t)document.documentElement.setAttribute('data-theme',t);</script>
 </head>
 <body>
@@ -124,6 +132,7 @@ def page(it: dict, related: list[dict]) -> str:
 
 def main() -> int:
     data = json.load(open(os.path.join(HERE, "data.json"), encoding="utf-8"))
+    data = apply_inclusion(data, HERE)
     items = data["items"]
     if os.path.isdir(P_DIR):
         shutil.rmtree(P_DIR)
@@ -137,6 +146,7 @@ def main() -> int:
         os.makedirs(d, exist_ok=True)
         with open(os.path.join(d, "index.html"), "w", encoding="utf-8") as f:
             f.write(page(it, related))
+    render_references(HERE, data)
     print(f"generated {len(items)} detail pages in p/")
     return 0
 

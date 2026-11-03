@@ -1,0 +1,23 @@
+{
+  "host": "dataset.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "criteria": "Ranked entries are tools that build, label, synthesize, curate or serve ML datasets, including dataset frameworks/loaders/versioning; raw datasets and general applications do not qualify on data-topic matches alone.",
+  "decisions": [
+    {
+      "entity": "designfuchen/word-atlas",
+      "slug": "designfuchen-word-atlas",
+      "repository": "https://github.com/designfuchen/word-atlas",
+      "disposition": "review_reference",
+      "summary": "A vocabulary application with downloadable content data and separate code/content licensing considerations, retained as related context.",
+      "reason": "The reviewed documentation describes an application and downloadable dataset, rather than a general ML dataset versioning or framework tool. Versioning & Frameworks is unsupported for the ranked core catalog under its tools-not-data-dumps policy.",
+      "evidence_needed": "Verify a reusable ML dataset-building, labeling, synthesis, curation, serving or framework/versioning interface before returning to a documented existing core category. Review code and content licenses separately.",
+      "last_source_snapshot_at": "2026-11-02T19:48:02.397973+00:00",
+      "evidence": [
+        {
+          "url": "https://github.com/designfuchen/word-atlas/blob/main/README.md",
+          "title": "designfuchen/word-atlas primary README, reviewed November3,2026"
+        }
+      ]
+    }
+  ]
+}

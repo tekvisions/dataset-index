@@ -1,6 +1,6 @@
 {
  "generated_at": "2026-11-02T19:48:02.397973+00:00",
- "count": 253,
+ "count": 252,
  "categories": [
   {
    "name": "Labeling & Annotation",
@@ -8,7 +8,7 @@
   },
   {
    "name": "Versioning & Frameworks",
-   "count": 63
+   "count": 62
   },
   {
    "name": "Synthetic Data",
@@ -28,39 +28,6 @@
   }
  ],
  "items": [
-  {
-   "name": "word-atlas",
-   "full_name": "designfuchen/word-atlas",
-   "slug": "designfuchen-word-atlas",
-   "url": "https://github.com/designfuchen/word-atlas",
-   "owner": "designfuchen",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/17679892?v=4",
-   "stars": 3892,
-   "forks": 847,
-   "open_issues": 35,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-10-31T11:37:01Z",
-   "created_at": "2026-10-25T08:27:22Z",
-   "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-   "topics": [
-    "chinese",
-    "dataset",
-    "english-learning",
-    "flashcards",
-    "fsrs",
-    "ielts",
-    "language-learning",
-    "pwa",
-    "react",
-    "spaced-repetition",
-    "vocabulary",
-    "webgl"
-   ],
-   "category": "Versioning & Frameworks",
-   "momentum": 88,
-   "rank": 1
-  },
   {
    "name": "label-studio",
    "full_name": "HumanSignal/label-studio",
@@ -100,7 +67,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 87,
-   "rank": 2
+   "rank": 1
   },
   {
    "name": "dolt",
@@ -141,7 +108,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 86,
-   "rank": 3
+   "rank": 2
   },
   {
    "name": "datasets",
@@ -178,7 +145,7 @@
    ],
    "category": "Collections & Hubs",
    "momentum": 85,
-   "rank": 4
+   "rank": 3
   },
   {
    "name": "machine-learning-for-trading",
@@ -217,7 +184,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 85,
-   "rank": 5
+   "rank": 4
   },
   {
    "name": "faker",
@@ -247,7 +214,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 84,
-   "rank": 6
+   "rank": 5
   },
   {
    "name": "cvat",
@@ -288,7 +255,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 84,
-   "rank": 7
+   "rank": 6
   },
   {
    "name": "dvc",
@@ -316,7 +283,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 84,
-   "rank": 8
+   "rank": 7
   },
   {
    "name": "datasette",
@@ -348,7 +315,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 82,
-   "rank": 9
+   "rank": 8
   },
   {
    "name": "fiftyone",
@@ -386,7 +353,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 82,
-   "rank": 10
+   "rank": 9
   },
   {
    "name": "oumi",
@@ -427,7 +394,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 81,
-   "rank": 11
+   "rank": 10
   },
   {
    "name": "fl_chart",
@@ -466,7 +433,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 79,
-   "rank": 12
+   "rank": 11
   },
   {
    "name": "data-juicer",
@@ -501,7 +468,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 79,
-   "rank": 13
+   "rank": 12
   },
   {
    "name": "DALI",
@@ -537,7 +504,7 @@
    ],
    "category": "Augmentation",
    "momentum": 78,
-   "rank": 14
+   "rank": 13
   },
   {
    "name": "lakeFS",
@@ -577,7 +544,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 78,
-   "rank": 15
+   "rank": 14
   },
   {
    "name": "argilla",
@@ -615,7 +582,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 77,
-   "rank": 16
+   "rank": 15
   },
   {
    "name": "mimesis",
@@ -656,7 +623,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 77,
-   "rank": 17
+   "rank": 16
   },
   {
    "name": "datasets",
@@ -684,7 +651,7 @@
    ],
    "category": "Collections & Hubs",
    "momentum": 77,
-   "rank": 18
+   "rank": 17
   },
   {
    "name": "torchgeo",
@@ -716,7 +683,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 77,
-   "rank": 19
+   "rank": 18
   },
   {
    "name": "SDV",
@@ -752,7 +719,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 76,
-   "rank": 20
+   "rank": 19
   },
   {
    "name": "snorkel",
@@ -783,7 +750,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 75,
-   "rank": 21
+   "rank": 20
   },
   {
    "name": "FlashRAG",
@@ -808,7 +775,7 @@
    ],
    "category": "Augmentation",
    "momentum": 75,
-   "rank": 22
+   "rank": 21
   },
   {
    "name": "WhatsMyName",
@@ -838,7 +805,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 75,
-   "rank": 23
+   "rank": 22
   },
   {
    "name": "loghub",
@@ -866,7 +833,7 @@
    ],
    "category": "Collections & Hubs",
    "momentum": 75,
-   "rank": 24
+   "rank": 23
   },
   {
    "name": "distilabel",
@@ -896,7 +863,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 74,
-   "rank": 25
+   "rank": 24
   },
   {
    "name": "synthea",
@@ -923,7 +890,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 74,
-   "rank": 26
+   "rank": 25
   },
   {
    "name": "torchio",
@@ -953,7 +920,7 @@
    ],
    "category": "Augmentation",
    "momentum": 74,
-   "rank": 27
+   "rank": 26
   },
   {
    "name": "synthetic-data-generator",
@@ -984,7 +951,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 74,
-   "rank": 28
+   "rank": 27
   },
   {
    "name": "csghub",
@@ -1021,7 +988,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 73,
-   "rank": 29
+   "rank": 28
   },
   {
    "name": "ISAT_with_segment_anything",
@@ -1053,7 +1020,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 72,
-   "rank": 30
+   "rank": 29
   },
   {
    "name": "nlpcda",
@@ -1079,7 +1046,7 @@
    ],
    "category": "Augmentation",
    "momentum": 72,
-   "rank": 31
+   "rank": 30
   },
   {
    "name": "curator",
@@ -1111,7 +1078,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 72,
-   "rank": 32
+   "rank": 31
   },
   {
    "name": "synthadoc",
@@ -1147,7 +1114,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 72,
-   "rank": 33
+   "rank": 32
   },
   {
    "name": "greenmask",
@@ -1188,7 +1155,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 71,
-   "rank": 34
+   "rank": 33
   },
   {
    "name": "CTGAN",
@@ -1214,7 +1181,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 71,
-   "rank": 35
+   "rank": 34
   },
   {
    "name": "quilt",
@@ -1242,7 +1209,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 70,
-   "rank": 36
+   "rank": 35
   },
   {
    "name": "Oxen",
@@ -1272,7 +1239,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 70,
-   "rank": 37
+   "rank": 36
   },
   {
    "name": "jev-align",
@@ -1301,7 +1268,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 70,
-   "rank": 38
+   "rank": 37
   },
   {
    "name": "spotlight",
@@ -1335,7 +1302,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 69,
-   "rank": 39
+   "rank": 38
   },
   {
    "name": "adaptive",
@@ -1365,7 +1332,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 69,
-   "rank": 40
+   "rank": 39
   },
   {
    "name": "asreview",
@@ -1399,7 +1366,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 69,
-   "rank": 41
+   "rank": 40
   },
   {
    "name": "swappy",
@@ -1426,7 +1393,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 68,
-   "rank": 42
+   "rank": 41
   },
   {
    "name": "expressive-code",
@@ -1456,7 +1423,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 68,
-   "rank": 43
+   "rank": 42
   },
   {
    "name": "MONAILabel",
@@ -1486,7 +1453,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 68,
-   "rank": 44
+   "rank": 43
   },
   {
    "name": "dokieli",
@@ -1526,7 +1493,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 68,
-   "rank": 45
+   "rank": 44
   },
   {
    "name": "mamma",
@@ -1562,7 +1529,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 68,
-   "rank": 46
+   "rank": 45
   },
   {
    "name": "DrawPen",
@@ -1590,7 +1557,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 67,
-   "rank": 47
+   "rank": 46
   },
   {
    "name": "mostlyai",
@@ -1614,7 +1581,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 67,
-   "rank": 48
+   "rank": 47
   },
   {
    "name": "inception",
@@ -1645,7 +1612,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 67,
-   "rank": 49
+   "rank": 48
   },
   {
    "name": "datumaro",
@@ -1677,7 +1644,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 67,
-   "rank": 50
+   "rank": 49
   },
   {
    "name": "Copulas",
@@ -1706,7 +1673,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 67,
-   "rank": 51
+   "rank": 50
   },
   {
    "name": "exercises-dataset",
@@ -1737,7 +1704,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 66,
-   "rank": 52
+   "rank": 51
   },
   {
    "name": "deepfabric",
@@ -1775,7 +1742,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 66,
-   "rank": 53
+   "rank": 52
   },
   {
    "name": "annotorious",
@@ -1805,7 +1772,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 66,
-   "rank": 54
+   "rank": 53
   },
   {
    "name": "AlbumentationsX",
@@ -1846,7 +1813,7 @@
    ],
    "category": "Augmentation",
    "momentum": 66,
-   "rank": 55
+   "rank": 54
   },
   {
    "name": "lost",
@@ -1876,7 +1843,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 66,
-   "rank": 56
+   "rank": 55
   },
   {
    "name": "baybe",
@@ -1903,7 +1870,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 66,
-   "rank": 57
+   "rank": 56
   },
   {
    "name": "Open3D-ML",
@@ -1935,7 +1902,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 65,
-   "rank": 58
+   "rank": 57
   },
   {
    "name": "aisheets",
@@ -1962,7 +1929,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 65,
-   "rank": 59
+   "rank": 58
   },
   {
    "name": "xtreme1",
@@ -1998,7 +1965,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 65,
-   "rank": 60
+   "rank": 59
   },
   {
    "name": "edsl",
@@ -2037,7 +2004,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 65,
-   "rank": 61
+   "rank": 60
   },
   {
    "name": "libact",
@@ -2062,7 +2029,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 64,
-   "rank": 62
+   "rank": 61
   },
   {
    "name": "small-text",
@@ -2096,7 +2063,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 64,
-   "rank": 63
+   "rank": 62
   },
   {
    "name": "potato",
@@ -2129,7 +2096,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 64,
-   "rank": 64
+   "rank": 63
   },
   {
    "name": "gw",
@@ -2155,7 +2122,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 64,
-   "rank": 65
+   "rank": 64
   },
   {
    "name": "unrealcv",
@@ -2184,7 +2151,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 63,
-   "rank": 66
+   "rank": 65
   },
   {
    "name": "bofire",
@@ -2210,7 +2177,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 63,
-   "rank": 67
+   "rank": 66
   },
   {
    "name": "alice",
@@ -2243,7 +2210,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 63,
-   "rank": 68
+   "rank": 67
   },
   {
    "name": "Construction-Hazard-Detection",
@@ -2283,7 +2250,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 63,
-   "rank": 69
+   "rank": 68
   },
   {
    "name": "SDGym",
@@ -2313,7 +2280,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 63,
-   "rank": 70
+   "rank": 69
   },
   {
    "name": "TextAttack",
@@ -2342,7 +2309,7 @@
    ],
    "category": "Augmentation",
    "momentum": 62,
-   "rank": 71
+   "rank": 70
   },
   {
    "name": "DataArc-SynData-Toolkit",
@@ -2362,7 +2329,7 @@
    "topics": [],
    "category": "Synthetic Data",
    "momentum": 62,
-   "rank": 72
+   "rank": 71
   },
   {
    "name": "leed_pdf_viewer",
@@ -2395,7 +2362,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 62,
-   "rank": 73
+   "rank": 72
   },
   {
    "name": "universal-examprep-skill",
@@ -2436,7 +2403,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 62,
-   "rank": 74
+   "rank": 73
   },
   {
    "name": "AlignLedger",
@@ -2471,7 +2438,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 62,
-   "rank": 75
+   "rank": 74
   },
   {
    "name": "fg-data-synthetic",
@@ -2507,7 +2474,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 61,
-   "rank": 76
+   "rank": 75
   },
   {
    "name": "intellagent",
@@ -2533,7 +2500,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 61,
-   "rank": 77
+   "rank": 76
   },
   {
    "name": "markup",
@@ -2566,7 +2533,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 61,
-   "rank": 78
+   "rank": 77
   },
   {
    "name": "zgi",
@@ -2586,7 +2553,7 @@
    "topics": [],
    "category": "Versioning & Frameworks",
    "momentum": 61,
-   "rank": 79
+   "rank": 78
   },
   {
    "name": "fastdup",
@@ -2626,7 +2593,7 @@
    ],
    "category": "Curation & Quality",
    "momentum": 60,
-   "rank": 80
+   "rank": 79
   },
   {
    "name": "gromit-mpx",
@@ -2665,7 +2632,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 60,
-   "rank": 81
+   "rank": 80
   },
   {
    "name": "truvari",
@@ -2696,7 +2663,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 59,
-   "rank": 82
+   "rank": 81
   },
   {
    "name": "sdg_hub",
@@ -2720,7 +2687,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 59,
-   "rank": 83
+   "rank": 82
   },
   {
    "name": "retriever",
@@ -2748,7 +2715,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 58,
-   "rank": 84
+   "rank": 83
   },
   {
    "name": "ai-learning-coach",
@@ -2779,7 +2746,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 58,
-   "rank": 85
+   "rank": 84
   },
   {
    "name": "DeepEcho",
@@ -2807,7 +2774,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 58,
-   "rank": 86
+   "rank": 85
   },
   {
    "name": "pandas-datareader",
@@ -2842,7 +2809,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 57,
-   "rank": 87
+   "rank": 86
   },
   {
    "name": "GraphGen",
@@ -2879,7 +2846,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 56,
-   "rank": 88
+   "rank": 87
   },
   {
    "name": "EnterpriseRAG-Bench",
@@ -2919,7 +2886,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 56,
-   "rank": 89
+   "rank": 88
   },
   {
    "name": "dpgen",
@@ -2943,7 +2910,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 56,
-   "rank": 90
+   "rank": 89
   },
   {
    "name": "DocCreator",
@@ -2970,7 +2937,7 @@
    ],
    "category": "Augmentation",
    "momentum": 56,
-   "rank": 91
+   "rank": 90
   },
   {
    "name": "VLM-AutoYOLO",
@@ -3007,7 +2974,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 55,
-   "rank": 92
+   "rank": 91
   },
   {
    "name": "labelImg",
@@ -3037,7 +3004,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 54,
-   "rank": 93
+   "rank": 92
   },
   {
    "name": "PPOCRLabel",
@@ -3057,7 +3024,7 @@
    "topics": [],
    "category": "Labeling & Annotation",
    "momentum": 53,
-   "rank": 94
+   "rank": 93
   },
   {
    "name": "LaTeX-OCR",
@@ -3095,7 +3062,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 52,
-   "rank": 95
+   "rank": 94
   },
   {
    "name": "easy-dataset",
@@ -3121,7 +3088,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 52,
-   "rank": 96
+   "rank": 95
   },
   {
    "name": "datasets",
@@ -3152,7 +3119,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 52,
-   "rank": 97
+   "rank": 96
   },
   {
    "name": "fashion-mnist",
@@ -3184,7 +3151,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 51,
-   "rank": 98
+   "rank": 97
   },
   {
    "name": "docta",
@@ -3212,7 +3179,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 51,
-   "rank": 99
+   "rank": 98
   },
   {
    "name": "VisioFirm",
@@ -3248,7 +3215,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 51,
-   "rank": 100
+   "rank": 99
   },
   {
    "name": "cleanlab",
@@ -3289,7 +3256,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 50,
-   "rank": 101
+   "rank": 100
   },
   {
    "name": "doccano",
@@ -3322,7 +3289,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 50,
-   "rank": 102
+   "rank": 101
   },
   {
    "name": "RSIBench-Data",
@@ -3342,7 +3309,7 @@
    "topics": [],
    "category": "Synthetic Data",
    "momentum": 50,
-   "rank": 103
+   "rank": 102
   },
   {
    "name": "nlp_chinese_corpus",
@@ -3378,7 +3345,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 49,
-   "rank": 104
+   "rank": 103
   },
   {
    "name": "diffgram",
@@ -3415,7 +3382,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 49,
-   "rank": 105
+   "rank": 104
   },
   {
    "name": "myvision",
@@ -3456,7 +3423,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 49,
-   "rank": 106
+   "rank": 105
   },
   {
    "name": "synthetic-data-examples",
@@ -3476,7 +3443,7 @@
    "topics": [],
    "category": "Synthetic Data",
    "momentum": 49,
-   "rank": 107
+   "rank": 106
   },
   {
    "name": "quickdraw-dataset",
@@ -3499,7 +3466,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 47,
-   "rank": 108
+   "rank": 107
   },
   {
    "name": "EasyPR",
@@ -3532,7 +3499,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 47,
-   "rank": 109
+   "rank": 108
   },
   {
    "name": "transformer",
@@ -3557,7 +3524,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 45,
-   "rank": 110
+   "rank": 109
   },
   {
    "name": "img2dataset",
@@ -3585,7 +3552,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 45,
-   "rank": 111
+   "rank": 110
   },
   {
    "name": "CLUEDatasetSearch",
@@ -3620,7 +3587,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 45,
-   "rank": 112
+   "rank": 111
   },
   {
    "name": "VoTT",
@@ -3655,7 +3622,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 45,
-   "rank": 113
+   "rank": 112
   },
   {
    "name": "Chinese-Names-Corpus",
@@ -3681,7 +3648,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 45,
-   "rank": 114
+   "rank": 113
   },
   {
    "name": "sql-translator",
@@ -3711,7 +3678,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 45,
-   "rank": 115
+   "rank": 114
   },
   {
    "name": "CLUE",
@@ -3747,7 +3714,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 45,
-   "rank": 116
+   "rank": 115
   },
   {
    "name": "Surface-Defect-Detection",
@@ -3779,7 +3746,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 45,
-   "rank": 117
+   "rank": 116
   },
   {
    "name": "neosync",
@@ -3819,7 +3786,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 45,
-   "rank": 118
+   "rank": 117
   },
   {
    "name": "bbox-visualizer",
@@ -3857,7 +3824,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 45,
-   "rank": 119
+   "rank": 118
   },
   {
    "name": "syda",
@@ -3890,7 +3857,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 45,
-   "rank": 120
+   "rank": 119
   },
   {
    "name": "TextRecognitionDataGenerator",
@@ -3919,7 +3886,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 44,
-   "rank": 121
+   "rank": 120
   },
   {
    "name": "dataset",
@@ -3950,7 +3917,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 44,
-   "rank": 122
+   "rank": 121
   },
   {
    "name": "face.evoLVe",
@@ -3991,7 +3958,7 @@
    ],
    "category": "Augmentation",
    "momentum": 44,
-   "rank": 123
+   "rank": 122
   },
   {
    "name": "text",
@@ -4018,7 +3985,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 44,
-   "rank": 124
+   "rank": 123
   },
   {
    "name": "waymo-open-dataset",
@@ -4041,7 +4008,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 44,
-   "rank": 125
+   "rank": 124
   },
   {
    "name": "LLMDataHub",
@@ -4066,7 +4033,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 44,
-   "rank": 126
+   "rank": 125
   },
   {
    "name": "webdataset",
@@ -4092,7 +4059,7 @@
    ],
    "category": "Augmentation",
    "momentum": 43,
-   "rank": 127
+   "rank": 126
   },
   {
    "name": "covid-chestxray-dataset",
@@ -4119,7 +4086,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 43,
-   "rank": 128
+   "rank": 127
   },
   {
    "name": "3D-PointCloud",
@@ -4151,7 +4118,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 43,
-   "rank": 129
+   "rank": 128
   },
   {
    "name": "whylogs",
@@ -4190,7 +4157,7 @@
    ],
    "category": "Curation & Quality",
    "momentum": 43,
-   "rank": 130
+   "rank": 129
   },
   {
    "name": "cloud-annotations",
@@ -4219,7 +4186,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 42,
-   "rank": 131
+   "rank": 130
   },
   {
    "name": "gopup",
@@ -4249,7 +4216,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 42,
-   "rank": 132
+   "rank": 131
   },
   {
    "name": "CodeSearchNet",
@@ -4290,7 +4257,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 42,
-   "rank": 133
+   "rank": 132
   },
   {
    "name": "modAL",
@@ -4320,7 +4287,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 42,
-   "rank": 134
+   "rank": 133
   },
   {
    "name": "audiomentations",
@@ -4353,7 +4320,7 @@
    ],
    "category": "Augmentation",
    "momentum": 42,
-   "rank": 135
+   "rank": 134
   },
   {
    "name": "coco-annotator",
@@ -4387,7 +4354,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 41,
-   "rank": 136
+   "rank": 135
   },
   {
    "name": "voice_datasets",
@@ -4426,7 +4393,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 41,
-   "rank": 137
+   "rank": 136
   },
   {
    "name": "ogb",
@@ -4451,7 +4418,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 41,
-   "rank": 138
+   "rank": 137
   },
   {
    "name": "universal-data-tool",
@@ -4492,7 +4459,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 41,
-   "rank": 139
+   "rank": 138
   },
   {
    "name": "DB-GPT-Hub",
@@ -4523,7 +4490,7 @@
    ],
    "category": "Collections & Hubs",
    "momentum": 41,
-   "rank": 140
+   "rank": 139
   },
   {
    "name": "brat",
@@ -4543,7 +4510,7 @@
    "topics": [],
    "category": "Labeling & Annotation",
    "momentum": 40,
-   "rank": 141
+   "rank": 140
   },
   {
    "name": "eda_nlp",
@@ -4575,7 +4542,7 @@
    ],
    "category": "Augmentation",
    "momentum": 40,
-   "rank": 142
+   "rank": 141
   },
   {
    "name": "data-augmentation-review",
@@ -4611,7 +4578,7 @@
    ],
    "category": "Augmentation",
    "momentum": 40,
-   "rank": 143
+   "rank": 142
   },
   {
    "name": "Rectlabel-support",
@@ -4652,7 +4619,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 40,
-   "rank": 144
+   "rank": 143
   },
   {
    "name": "alpamayo-coc-autolabeler",
@@ -4687,7 +4654,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 40,
-   "rank": 145
+   "rank": 144
   },
   {
    "name": "synth",
@@ -4716,7 +4683,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 39,
-   "rank": 146
+   "rank": 145
   },
   {
    "name": "refinery",
@@ -4757,7 +4724,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 39,
-   "rank": 147
+   "rank": 146
   },
   {
    "name": "LabelMeAnnotationTool",
@@ -4780,7 +4747,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 39,
-   "rank": 148
+   "rank": 147
   },
   {
    "name": "PixelAnnotationTool",
@@ -4814,7 +4781,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 39,
-   "rank": 149
+   "rank": 148
   },
   {
    "name": "EDA_NLP_for_Chinese",
@@ -4841,7 +4808,7 @@
    ],
    "category": "Augmentation",
    "momentum": 39,
-   "rank": 150
+   "rank": 149
   },
   {
    "name": "Ditto",
@@ -4865,7 +4832,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 39,
-   "rank": 151
+   "rank": 150
   },
   {
    "name": "cleanvision",
@@ -4900,7 +4867,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 38,
-   "rank": 152
+   "rank": 151
   },
   {
    "name": "torch-audiomentations",
@@ -4936,7 +4903,7 @@
    ],
    "category": "Augmentation",
    "momentum": 38,
-   "rank": 153
+   "rank": 152
   },
   {
    "name": "data-centric-AI",
@@ -4967,7 +4934,7 @@
    ],
    "category": "Collections & Hubs",
    "momentum": 38,
-   "rank": 154
+   "rank": 153
   },
   {
    "name": "DataAugmentationForObjectDetection",
@@ -4994,7 +4961,7 @@
    ],
    "category": "Augmentation",
    "momentum": 38,
-   "rank": 155
+   "rank": 154
   },
   {
    "name": "data-centric-ai",
@@ -5019,7 +4986,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 38,
-   "rank": 156
+   "rank": 155
   },
   {
    "name": "audino",
@@ -5047,7 +5014,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 38,
-   "rank": 157
+   "rank": 156
   },
   {
    "name": "DataDreamer",
@@ -5086,7 +5053,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 38,
-   "rank": 158
+   "rank": 157
   },
   {
    "name": "YEDDA",
@@ -5121,7 +5088,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 37,
-   "rank": 159
+   "rank": 158
   },
   {
    "name": "baal",
@@ -5149,7 +5116,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 37,
-   "rank": 160
+   "rank": 159
   },
   {
    "name": "NCFM",
@@ -5174,7 +5141,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 37,
-   "rank": 161
+   "rank": 160
   },
   {
    "name": "ALiPy",
@@ -5199,7 +5166,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 36,
-   "rank": 162
+   "rank": 161
   },
   {
    "name": "ad_examples",
@@ -5240,7 +5207,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 36,
-   "rank": 163
+   "rank": 162
   },
   {
    "name": "deep-active-learning",
@@ -5263,7 +5230,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 36,
-   "rank": 164
+   "rank": 163
   },
   {
    "name": "inltk",
@@ -5293,7 +5260,7 @@
    ],
    "category": "Augmentation",
    "momentum": 36,
-   "rank": 165
+   "rank": 164
   },
   {
    "name": "bonito",
@@ -5321,7 +5288,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 36,
-   "rank": 166
+   "rank": 165
   },
   {
    "name": "3d-bat",
@@ -5362,7 +5329,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 36,
-   "rank": 167
+   "rank": 166
   },
   {
    "name": "verbalized-sampling",
@@ -5397,7 +5364,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 36,
-   "rank": 168
+   "rank": 167
   },
   {
    "name": "aerial_wildlife_detection",
@@ -5423,7 +5390,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 36,
-   "rank": 169
+   "rank": 168
   },
   {
    "name": "Random-Erasing",
@@ -5450,7 +5417,7 @@
    ],
    "category": "Augmentation",
    "momentum": 35,
-   "rank": 170
+   "rank": 169
   },
   {
    "name": "pygraft",
@@ -5491,7 +5458,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 35,
-   "rank": 171
+   "rank": 170
   },
   {
    "name": "synthcity",
@@ -5520,7 +5487,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 35,
-   "rank": 172
+   "rank": 171
   },
   {
    "name": "gretel-synthetics",
@@ -5546,7 +5513,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 35,
-   "rank": 173
+   "rank": 172
   },
   {
    "name": "scalabel",
@@ -5566,7 +5533,7 @@
    "topics": [],
    "category": "Labeling & Annotation",
    "momentum": 35,
-   "rank": 174
+   "rank": 173
   },
   {
    "name": "openmixup",
@@ -5605,7 +5572,7 @@
    ],
    "category": "Augmentation",
    "momentum": 35,
-   "rank": 175
+   "rank": 174
   },
   {
    "name": "SpecAugment",
@@ -5633,7 +5600,7 @@
    ],
    "category": "Augmentation",
    "momentum": 35,
-   "rank": 176
+   "rank": 175
   },
   {
    "name": "textflint",
@@ -5663,7 +5630,7 @@
    ],
    "category": "Augmentation",
    "momentum": 35,
-   "rank": 177
+   "rank": 176
   },
   {
    "name": "Curve-Text-Detector",
@@ -5688,7 +5655,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 35,
-   "rank": 178
+   "rank": 177
   },
   {
    "name": "MobilePose",
@@ -5728,7 +5695,7 @@
    ],
    "category": "Augmentation",
    "momentum": 35,
-   "rank": 179
+   "rank": 178
   },
   {
    "name": "semi-auto-image-annotation-tool",
@@ -5759,7 +5726,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 34,
-   "rank": 180
+   "rank": 179
   },
   {
    "name": "ner-annotator",
@@ -5784,7 +5751,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 34,
-   "rank": 181
+   "rank": 180
   },
   {
    "name": "annotorious-v1",
@@ -5808,7 +5775,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 34,
-   "rank": 182
+   "rank": 181
   },
   {
    "name": "augraphy",
@@ -5840,7 +5807,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 34,
-   "rank": 183
+   "rank": 182
   },
   {
    "name": "copy-paste-aug",
@@ -5866,7 +5833,7 @@
    ],
    "category": "Augmentation",
    "momentum": 34,
-   "rank": 184
+   "rank": 183
   },
   {
    "name": "tab-ddpm",
@@ -5893,7 +5860,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 34,
-   "rank": 185
+   "rank": 184
   },
   {
    "name": "deltapy",
@@ -5923,7 +5890,7 @@
    ],
    "category": "Augmentation",
    "momentum": 34,
-   "rank": 186
+   "rank": 185
   },
   {
    "name": "En3D",
@@ -5949,7 +5916,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 34,
-   "rank": 187
+   "rank": 186
   },
   {
    "name": "MedCAT",
@@ -5981,7 +5948,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 34,
-   "rank": 188
+   "rank": 187
   },
   {
    "name": "poplar",
@@ -6005,7 +5972,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 34,
-   "rank": 189
+   "rank": 188
   },
   {
    "name": "js-segment-annotator",
@@ -6029,7 +5996,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 34,
-   "rank": 190
+   "rank": 189
   },
   {
    "name": "point-cloud-annotation-tool",
@@ -6052,7 +6019,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 34,
-   "rank": 191
+   "rank": 190
   },
   {
    "name": "compose",
@@ -6083,7 +6050,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 192
+   "rank": 191
   },
   {
    "name": "prodigy-recipes",
@@ -6118,7 +6085,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 193
+   "rank": 192
   },
   {
    "name": "pba",
@@ -6151,7 +6118,7 @@
    ],
    "category": "Augmentation",
    "momentum": 33,
-   "rank": 194
+   "rank": 193
   },
   {
    "name": "dcai-lab",
@@ -6179,7 +6146,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 33,
-   "rank": 195
+   "rank": 194
   },
   {
    "name": "imagecorruptions",
@@ -6204,7 +6171,7 @@
    ],
    "category": "Augmentation",
    "momentum": 33,
-   "rank": 196
+   "rank": 195
   },
   {
    "name": "DeepConvSep",
@@ -6235,7 +6202,7 @@
    ],
    "category": "Augmentation",
    "momentum": 33,
-   "rank": 197
+   "rank": 196
   },
   {
    "name": "coursera-gan-specialization",
@@ -6276,7 +6243,7 @@
    ],
    "category": "Augmentation",
    "momentum": 33,
-   "rank": 198
+   "rank": 197
   },
   {
    "name": "labelGo",
@@ -6305,7 +6272,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 199
+   "rank": 198
   },
   {
    "name": "mixup",
@@ -6331,7 +6298,7 @@
    ],
    "category": "Augmentation",
    "momentum": 33,
-   "rank": 200
+   "rank": 199
   },
   {
    "name": "Entity-Recognition-In-Resumes-SpaCy",
@@ -6359,7 +6326,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 201
+   "rank": 200
   },
   {
    "name": "encord-active",
@@ -6399,7 +6366,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 202
+   "rank": 201
   },
   {
    "name": "image_augmentor",
@@ -6423,7 +6390,7 @@
    ],
    "category": "Augmentation",
    "momentum": 33,
-   "rank": 203
+   "rank": 202
   },
   {
    "name": "label-studio-frontend",
@@ -6458,7 +6425,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 204
+   "rank": 203
   },
   {
    "name": "toolbox",
@@ -6483,7 +6450,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 33,
-   "rank": 205
+   "rank": 204
   },
   {
    "name": "mega-data-factory",
@@ -6521,7 +6488,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 33,
-   "rank": 206
+   "rank": 205
   },
   {
    "name": "scaper",
@@ -6551,7 +6518,7 @@
    ],
    "category": "Augmentation",
    "momentum": 32,
-   "rank": 207
+   "rank": 206
   },
   {
    "name": "drq",
@@ -6590,7 +6557,7 @@
    ],
    "category": "Augmentation",
    "momentum": 32,
-   "rank": 208
+   "rank": 207
   },
   {
    "name": "recogito-js",
@@ -6614,7 +6581,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 32,
-   "rank": 209
+   "rank": 208
   },
   {
    "name": "labelbee-client",
@@ -6636,7 +6603,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 32,
-   "rank": 210
+   "rank": 209
   },
   {
    "name": "label-tool",
@@ -6670,7 +6637,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 31,
-   "rank": 211
+   "rank": 210
   },
   {
    "name": "COCO_to_YOLOv8",
@@ -6710,7 +6677,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 31,
-   "rank": 212
+   "rank": 211
   },
   {
    "name": "pylabel",
@@ -6738,7 +6705,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 31,
-   "rank": 213
+   "rank": 212
   },
   {
    "name": "MI-AOD",
@@ -6765,7 +6732,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 31,
-   "rank": 214
+   "rank": 213
   },
   {
    "name": "uk-retail-synthetic-data-generation",
@@ -6785,7 +6752,7 @@
    "topics": [],
    "category": "Synthetic Data",
    "momentum": 31,
-   "rank": 215
+   "rank": 214
   },
   {
    "name": "hover",
@@ -6821,7 +6788,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 31,
-   "rank": 216
+   "rank": 215
   },
   {
    "name": "sgr",
@@ -6849,7 +6816,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 31,
-   "rank": 217
+   "rank": 216
   },
   {
    "name": "syndata-generation",
@@ -6875,7 +6842,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 31,
-   "rank": 218
+   "rank": 217
   },
   {
    "name": "SecuML",
@@ -6903,7 +6870,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 30,
-   "rank": 219
+   "rank": 218
   },
   {
    "name": "ProX",
@@ -6933,7 +6900,7 @@
    ],
    "category": "Curation & Quality",
    "momentum": 30,
-   "rank": 220
+   "rank": 219
   },
   {
    "name": "label-sleuth",
@@ -6965,7 +6932,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 30,
-   "rank": 221
+   "rank": 220
   },
   {
    "name": "nlp-labelling",
@@ -7001,7 +6968,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 30,
-   "rank": 222
+   "rank": 221
   },
   {
    "name": "crowd-kit",
@@ -7033,7 +7000,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 30,
-   "rank": 223
+   "rank": 222
   },
   {
    "name": "REaLTabFormer",
@@ -7063,7 +7030,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 30,
-   "rank": 224
+   "rank": 223
   },
   {
    "name": "gpax",
@@ -7093,7 +7060,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 29,
-   "rank": 225
+   "rank": 224
   },
   {
    "name": "SMART",
@@ -7118,7 +7085,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 29,
-   "rank": 226
+   "rank": 225
   },
   {
    "name": "wrench",
@@ -7150,7 +7117,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 29,
-   "rank": 227
+   "rank": 226
   },
   {
    "name": "Learning-Loss-for-Active-Learning",
@@ -7174,7 +7141,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 29,
-   "rank": 228
+   "rank": 227
   },
   {
    "name": "Active-Learning-as-a-Service",
@@ -7202,7 +7169,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 29,
-   "rank": 229
+   "rank": 228
   },
   {
    "name": "molpal",
@@ -7226,7 +7193,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 29,
-   "rank": 230
+   "rank": 229
   },
   {
    "name": "toloka-kit",
@@ -7263,7 +7230,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 29,
-   "rank": 231
+   "rank": 230
   },
   {
    "name": "SEAL-CI",
@@ -7304,7 +7271,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 29,
-   "rank": 232
+   "rank": 231
   },
   {
    "name": "jupyter-bbox-widget",
@@ -7335,7 +7302,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 29,
-   "rank": 233
+   "rank": 232
   },
   {
    "name": "label-studio-transformers",
@@ -7365,7 +7332,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 28,
-   "rank": 234
+   "rank": 233
   },
   {
    "name": "jupyterlab-prodigy",
@@ -7402,7 +7369,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 28,
-   "rank": 235
+   "rank": 234
   },
   {
    "name": "llm-structured-output-benchmarks",
@@ -7422,7 +7389,7 @@
    "topics": [],
    "category": "Synthetic Data",
    "momentum": 28,
-   "rank": 236
+   "rank": 235
   },
   {
    "name": "pixmo-docs",
@@ -7445,7 +7412,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 28,
-   "rank": 237
+   "rank": 236
   },
   {
    "name": "tableGAN",
@@ -7465,7 +7432,7 @@
    "topics": [],
    "category": "Synthetic Data",
    "momentum": 27,
-   "rank": 238
+   "rank": 237
   },
   {
    "name": "mutate",
@@ -7491,7 +7458,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 27,
-   "rank": 239
+   "rank": 238
   },
   {
    "name": "AttrPrompt",
@@ -7520,7 +7487,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 27,
-   "rank": 240
+   "rank": 239
   },
   {
    "name": "WDK",
@@ -7549,7 +7516,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 27,
-   "rank": 241
+   "rank": 240
   },
   {
    "name": "pyDVL",
@@ -7583,7 +7550,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 27,
-   "rank": 242
+   "rank": 241
   },
   {
    "name": "SMMT",
@@ -7612,7 +7579,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 27,
-   "rank": 243
+   "rank": 242
   },
   {
    "name": "examples",
@@ -7637,7 +7604,7 @@
    ],
    "category": "Curation & Quality",
    "momentum": 26,
-   "rank": 244
+   "rank": 243
   },
   {
    "name": "synthetic-data-for-finance",
@@ -7663,7 +7630,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 26,
-   "rank": 245
+   "rank": 244
   },
   {
    "name": "Dataset-Diffusion",
@@ -7687,7 +7654,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 26,
-   "rank": 246
+   "rank": 245
   },
   {
    "name": "classifai",
@@ -7718,7 +7685,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 26,
-   "rank": 247
+   "rank": 246
   },
   {
    "name": "superpipe",
@@ -7746,7 +7713,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 25,
-   "rank": 248
+   "rank": 247
   },
   {
    "name": "opendataval",
@@ -7775,7 +7742,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 25,
-   "rank": 249
+   "rank": 248
   },
   {
    "name": "DiverseEvol",
@@ -7802,7 +7769,7 @@
    ],
    "category": "Versioning & Frameworks",
    "momentum": 24,
-   "rank": 250
+   "rank": 249
   },
   {
    "name": "doccano-client",
@@ -7835,7 +7802,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 24,
-   "rank": 251
+   "rank": 250
   },
   {
    "name": "nbsynthetic",
@@ -7862,7 +7829,7 @@
    ],
    "category": "Synthetic Data",
    "momentum": 23,
-   "rank": 252
+   "rank": 251
   },
   {
    "name": "UnsupervisedSelectiveLabeling",
@@ -7889,7 +7856,32 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 22,
-   "rank": 253
+   "rank": 252
   }
- ]
+ ],
+ "review_references": [
+  {
+   "full_name": "designfuchen/word-atlas",
+   "slug": "designfuchen-word-atlas",
+   "url": "https://github.com/designfuchen/word-atlas",
+   "description": "A vocabulary application with downloadable content data and separate code/content licensing considerations, retained as related context.",
+   "status": "inclusion_review_reference",
+   "reviewed_on": "2026-11-03",
+   "last_source_snapshot_at": "2026-11-02T19:48:02.397973+00:00",
+   "reason": "The reviewed documentation describes an application and downloadable dataset, rather than a general ML dataset versioning or framework tool. Versioning & Frameworks is unsupported for the ranked core catalog under its tools-not-data-dumps policy.",
+   "evidence_needed": "Verify a reusable ML dataset-building, labeling, synthesis, curation, serving or framework/versioning interface before returning to a documented existing core category. Review code and content licenses separately.",
+   "primary_sources": [
+    {
+     "url": "https://github.com/designfuchen/word-atlas/blob/main/README.md",
+     "title": "designfuchen/word-atlas primary README, reviewed November3,2026"
+    }
+   ]
+  }
+ ],
+ "inclusion_review": {
+  "reviewed_on": "2026-11-03",
+  "criteria": "Ranked entries are tools that build, label, synthesize, curate or serve ML datasets, including dataset frameworks/loaders/versioning; raw datasets and general applications do not qualify on data-topic matches alone.",
+  "scope": "Only explicitly reviewed identities are withheld from ranked results; other entries retain their existing automated inclusion status, not independent verification.",
+  "score_basis": "Existing momentum scores retain their original source-snapshot basis; core ranks and category counts are recounted. Future refreshes exclude these reviewed identities before score normalization."
+ }
 }

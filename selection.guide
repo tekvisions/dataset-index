@@ -1,0 +1,71 @@
+{
+  "host": "dataset.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose data tooling for the stage of your workflow",
+  "answer": "Distinguish software that labels, versions or evaluates data from a downloadable dataset or an application containing one. This catalog uses broad repository categories; inspect what the project actually supplies.",
+  "choices": [
+    {
+      "categories": [
+        "Labeling & Annotation"
+      ],
+      "task": "Produce reviewed labels",
+      "guidance": "Check annotation types, review workflow, export format and a representative labeling task. Establish how disagreements and label changes will be tracked."
+    },
+    {
+      "categories": [
+        "Versioning & Frameworks",
+        "Curation & Quality"
+      ],
+      "task": "Maintain a reproducible dataset",
+      "guidance": "Look for documented version identifiers, provenance, schema checks and rollback/export behavior. Do not infer these features merely from a dataset-related repository name."
+    },
+    {
+      "categories": [
+        "Synthetic Data",
+        "Augmentation"
+      ],
+      "task": "Create or transform examples",
+      "guidance": "Define the target distribution and downstream evaluation first. Check duplicates, leakage and whether transformed or generated examples improve the intended task."
+    }
+  ],
+  "checks": [
+    "Identify separately what is code, source data, generated data and application content.",
+    "Verify license and provenance for each component from its own primary source.",
+    "Test exports and validation rules on a small versioned sample before committing a dataset."
+  ],
+  "unknowns": "Dataset quality, suitability, licensing scope and downstream performance require separate verification; popularity does not establish them.",
+  "related": [
+    {
+      "url": "https://finetune.kymatalabs.com/",
+      "label": "finetune"
+    },
+    {
+      "url": "https://eval.kymatalabs.com/",
+      "label": "eval"
+    },
+    {
+      "url": "https://rag.kymatalabs.com/",
+      "label": "rag"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/dataset-index/blob/413bc46fae6cbbb93ae08da7c3217bd5e06b3f37/build_data.py",
+      "reviewed_on": "2026-11-03"
+    },
+    {
+      "title": "designfuchen/word-atlas README.md",
+      "url": "https://github.com/designfuchen/word-atlas/blob/main/README.md",
+      "reviewed_on": "2026-11-03",
+      "blob_sha": "8f9870abff99e90b529127802f6861800e7eb423"
+    }
+  ],
+  "scope_notes": [
+    {
+      "entity": "designfuchen/word-atlas",
+      "note": "A vocabulary application with downloadable content data and separate code/content licensing considerations, retained as related context. The reviewed documentation describes an application and downloadable dataset, rather than a general ML dataset versioning or framework tool. Versioning & Frameworks is unsupported for the ranked core catalog under its tools-not-data-dumps policy.",
+      "source": "https://github.com/designfuchen/word-atlas/blob/main/README.md"
+    }
+  ]
+}
