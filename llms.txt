@@ -2,7 +2,7 @@
 
 > The Dataset Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-02T19:48:02.397973+00:00
+Snapshot collected: 2026-11-03T17:20:28.331749+00:00
 Current catalog records: 252
 
 ## Sources and interpretation
@@ -24,16 +24,16 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 
 - [HumanSignal/label-studio](https://dataset.kymatalabs.com/p/humansignal-label-studio/) — Labeling & Annotation
 - [dolthub/dolt](https://dataset.kymatalabs.com/p/dolthub-dolt/) — Versioning & Frameworks
-- [huggingface/datasets](https://dataset.kymatalabs.com/p/huggingface-datasets/) — Collections & Hubs
 - [stefan-jansen/machine-learning-for-trading](https://dataset.kymatalabs.com/p/stefan-jansen-machine-learning-for-trading/) — Synthetic Data
+- [huggingface/datasets](https://dataset.kymatalabs.com/p/huggingface-datasets/) — Collections & Hubs
 - [joke2k/faker](https://dataset.kymatalabs.com/p/joke2k-faker/) — Synthetic Data
 - [cvat-ai/cvat](https://dataset.kymatalabs.com/p/cvat-ai-cvat/) — Labeling & Annotation
 - [treeverse/dvc](https://dataset.kymatalabs.com/p/treeverse-dvc/) — Versioning & Frameworks
 - [simonw/datasette](https://dataset.kymatalabs.com/p/simonw-datasette/) — Versioning & Frameworks
 - [voxel51/fiftyone](https://dataset.kymatalabs.com/p/voxel51-fiftyone/) — Versioning & Frameworks
 - [oumi-ai/oumi](https://dataset.kymatalabs.com/p/oumi-ai-oumi/) — Synthetic Data
-- [imaNNeo/fl_chart](https://dataset.kymatalabs.com/p/imanneo-fl-chart/) — Versioning & Frameworks
 - [datajuicer/data-juicer](https://dataset.kymatalabs.com/p/datajuicer-data-juicer/) — Synthetic Data
+- [imaNNeo/fl_chart](https://dataset.kymatalabs.com/p/imanneo-fl-chart/) — Versioning & Frameworks
 - [NVIDIA/DALI](https://dataset.kymatalabs.com/p/nvidia-dali/) — Augmentation
 - [treeverse/lakeFS](https://dataset.kymatalabs.com/p/treeverse-lakefs/) — Versioning & Frameworks
 - [argilla-io/argilla](https://dataset.kymatalabs.com/p/argilla-io-argilla/) — Labeling & Annotation
@@ -41,27 +41,27 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [tensorflow/datasets](https://dataset.kymatalabs.com/p/tensorflow-datasets/) — Collections & Hubs
 - [torchgeo/torchgeo](https://dataset.kymatalabs.com/p/torchgeo-torchgeo/) — Versioning & Frameworks
 - [sdv-dev/SDV](https://dataset.kymatalabs.com/p/sdv-dev-sdv/) — Synthetic Data
+- [argilla-io/distilabel](https://dataset.kymatalabs.com/p/argilla-io-distilabel/) — Synthetic Data
 - [snorkel-team/snorkel](https://dataset.kymatalabs.com/p/snorkel-team-snorkel/) — Labeling & Annotation
 - [RUC-NLPIR/FlashRAG](https://dataset.kymatalabs.com/p/ruc-nlpir-flashrag/) — Augmentation
 - [WebBreacher/WhatsMyName](https://dataset.kymatalabs.com/p/webbreacher-whatsmyname/) — Versioning & Frameworks
 - [logpai/loghub](https://dataset.kymatalabs.com/p/logpai-loghub/) — Collections & Hubs
-- [argilla-io/distilabel](https://dataset.kymatalabs.com/p/argilla-io-distilabel/) — Synthetic Data
-- [synthetichealth/synthea](https://dataset.kymatalabs.com/p/synthetichealth-synthea/) — Synthetic Data
 - [TorchIO-project/torchio](https://dataset.kymatalabs.com/p/torchio-project-torchio/) — Augmentation
 - [hitsz-ids/synthetic-data-generator](https://dataset.kymatalabs.com/p/hitsz-ids-synthetic-data-generator/) — Synthetic Data
 - [OpenCSGs/csghub](https://dataset.kymatalabs.com/p/opencsgs-csghub/) — Versioning & Frameworks
+- [synthetichealth/synthea](https://dataset.kymatalabs.com/p/synthetichealth-synthea/) — Synthetic Data
 - [yatengLG/ISAT_with_segment_anything](https://dataset.kymatalabs.com/p/yatenglg-isat-with-segment-anything/) — Labeling & Annotation
 - [425776024/nlpcda](https://dataset.kymatalabs.com/p/425776024-nlpcda/) — Augmentation
-- [bespokelabsai/curator](https://dataset.kymatalabs.com/p/bespokelabsai-curator/) — Synthetic Data
 - [axoviq-ai/synthadoc](https://dataset.kymatalabs.com/p/axoviq-ai-synthadoc/) — Synthetic Data
+- [bespokelabsai/curator](https://dataset.kymatalabs.com/p/bespokelabsai-curator/) — Synthetic Data
+- [AgaMiko/data-augmentation-review](https://dataset.kymatalabs.com/p/agamiko-data-augmentation-review/) — Augmentation
 - [GreenmaskIO/greenmask](https://dataset.kymatalabs.com/p/greenmaskio-greenmask/) — Synthetic Data
 - [sdv-dev/CTGAN](https://dataset.kymatalabs.com/p/sdv-dev-ctgan/) — Synthetic Data
 - [quiltdata/quilt](https://dataset.kymatalabs.com/p/quiltdata-quilt/) — Versioning & Frameworks
+- [python-adaptive/adaptive](https://dataset.kymatalabs.com/p/python-adaptive-adaptive/) — Labeling & Annotation
 - [Oxen-AI/Oxen](https://dataset.kymatalabs.com/p/oxen-ai-oxen/) — Versioning & Frameworks
 - [sutro-sh/jev-align](https://dataset.kymatalabs.com/p/sutro-sh-jev-align/) — Versioning & Frameworks
 - [Renumics/spotlight](https://dataset.kymatalabs.com/p/renumics-spotlight/) — Versioning & Frameworks
-- [python-adaptive/adaptive](https://dataset.kymatalabs.com/p/python-adaptive-adaptive/) — Labeling & Annotation
-- [asreview/asreview](https://dataset.kymatalabs.com/p/asreview-asreview/) — Labeling & Annotation
 
 ## Unranked inclusion-review references
 
