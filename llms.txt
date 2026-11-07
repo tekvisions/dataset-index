@@ -2,7 +2,7 @@
 
 > The Dataset Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-06T16:56:35.486116+00:00
+Snapshot collected: 2026-11-07T15:55:41.029994+00:00
 Current catalog records: 252
 
 ## Sources and interpretation
@@ -32,8 +32,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [simonw/datasette](https://dataset.kymatalabs.com/p/simonw-datasette/) — Versioning & Frameworks
 - [voxel51/fiftyone](https://dataset.kymatalabs.com/p/voxel51-fiftyone/) — Versioning & Frameworks
 - [oumi-ai/oumi](https://dataset.kymatalabs.com/p/oumi-ai-oumi/) — Synthetic Data
-- [datajuicer/data-juicer](https://dataset.kymatalabs.com/p/datajuicer-data-juicer/) — Synthetic Data
 - [imaNNeo/fl_chart](https://dataset.kymatalabs.com/p/imanneo-fl-chart/) — Versioning & Frameworks
+- [datajuicer/data-juicer](https://dataset.kymatalabs.com/p/datajuicer-data-juicer/) — Synthetic Data
 - [NVIDIA/DALI](https://dataset.kymatalabs.com/p/nvidia-dali/) — Augmentation
 - [treeverse/lakeFS](https://dataset.kymatalabs.com/p/treeverse-lakefs/) — Versioning & Frameworks
 - [argilla-io/argilla](https://dataset.kymatalabs.com/p/argilla-io-argilla/) — Labeling & Annotation
@@ -51,9 +51,9 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [synthetichealth/synthea](https://dataset.kymatalabs.com/p/synthetichealth-synthea/) — Synthetic Data
 - [hitsz-ids/synthetic-data-generator](https://dataset.kymatalabs.com/p/hitsz-ids-synthetic-data-generator/) — Synthetic Data
 - [axoviq-ai/synthadoc](https://dataset.kymatalabs.com/p/axoviq-ai-synthadoc/) — Synthetic Data
+- [GreenmaskIO/greenmask](https://dataset.kymatalabs.com/p/greenmaskio-greenmask/) — Synthetic Data
 - [yatengLG/ISAT_with_segment_anything](https://dataset.kymatalabs.com/p/yatenglg-isat-with-segment-anything/) — Labeling & Annotation
 - [425776024/nlpcda](https://dataset.kymatalabs.com/p/425776024-nlpcda/) — Augmentation
-- [GreenmaskIO/greenmask](https://dataset.kymatalabs.com/p/greenmaskio-greenmask/) — Synthetic Data
 - [bespokelabsai/curator](https://dataset.kymatalabs.com/p/bespokelabsai-curator/) — Synthetic Data
 - [AgaMiko/data-augmentation-review](https://dataset.kymatalabs.com/p/agamiko-data-augmentation-review/) — Augmentation
 - [sdv-dev/CTGAN](https://dataset.kymatalabs.com/p/sdv-dev-ctgan/) — Synthetic Data
