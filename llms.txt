@@ -2,7 +2,7 @@
 
 > The Dataset Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-07T15:55:41.029994+00:00
+Snapshot collected: 2026-11-08T16:20:37.266661+00:00
 Current catalog records: 252
 
 ## Sources and interpretation
@@ -47,8 +47,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [snorkel-team/snorkel](https://dataset.kymatalabs.com/p/snorkel-team-snorkel/) — Labeling & Annotation
 - [RUC-NLPIR/FlashRAG](https://dataset.kymatalabs.com/p/ruc-nlpir-flashrag/) — Augmentation
 - [WebBreacher/WhatsMyName](https://dataset.kymatalabs.com/p/webbreacher-whatsmyname/) — Versioning & Frameworks
-- [TorchIO-project/torchio](https://dataset.kymatalabs.com/p/torchio-project-torchio/) — Augmentation
 - [synthetichealth/synthea](https://dataset.kymatalabs.com/p/synthetichealth-synthea/) — Synthetic Data
+- [TorchIO-project/torchio](https://dataset.kymatalabs.com/p/torchio-project-torchio/) — Augmentation
 - [hitsz-ids/synthetic-data-generator](https://dataset.kymatalabs.com/p/hitsz-ids-synthetic-data-generator/) — Synthetic Data
 - [axoviq-ai/synthadoc](https://dataset.kymatalabs.com/p/axoviq-ai-synthadoc/) — Synthetic Data
 - [GreenmaskIO/greenmask](https://dataset.kymatalabs.com/p/greenmaskio-greenmask/) — Synthetic Data
@@ -56,12 +56,12 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [425776024/nlpcda](https://dataset.kymatalabs.com/p/425776024-nlpcda/) — Augmentation
 - [bespokelabsai/curator](https://dataset.kymatalabs.com/p/bespokelabsai-curator/) — Synthetic Data
 - [AgaMiko/data-augmentation-review](https://dataset.kymatalabs.com/p/agamiko-data-augmentation-review/) — Augmentation
+- [jtheoof/swappy](https://dataset.kymatalabs.com/p/jtheoof-swappy/) — Labeling & Annotation
 - [sdv-dev/CTGAN](https://dataset.kymatalabs.com/p/sdv-dev-ctgan/) — Synthetic Data
 - [quiltdata/quilt](https://dataset.kymatalabs.com/p/quiltdata-quilt/) — Versioning & Frameworks
+- [InternScience/GraphGen](https://dataset.kymatalabs.com/p/internscience-graphgen/) — Synthetic Data
 - [Oxen-AI/Oxen](https://dataset.kymatalabs.com/p/oxen-ai-oxen/) — Versioning & Frameworks
 - [sutro-sh/jev-align](https://dataset.kymatalabs.com/p/sutro-sh-jev-align/) — Versioning & Frameworks
-- [Renumics/spotlight](https://dataset.kymatalabs.com/p/renumics-spotlight/) — Versioning & Frameworks
-- [python-adaptive/adaptive](https://dataset.kymatalabs.com/p/python-adaptive-adaptive/) — Labeling & Annotation
 
 ## Unranked inclusion-review references
 
