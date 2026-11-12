@@ -2,7 +2,7 @@
 
 > The Dataset Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-11T17:28:04.639394+00:00
+Snapshot collected: 2026-11-12T17:44:54.471839+00:00
 Current catalog records: 252
 
 ## Sources and interpretation
@@ -32,19 +32,20 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [simonw/datasette](https://dataset.kymatalabs.com/p/simonw-datasette/) — Versioning & Frameworks
 - [voxel51/fiftyone](https://dataset.kymatalabs.com/p/voxel51-fiftyone/) — Versioning & Frameworks
 - [oumi-ai/oumi](https://dataset.kymatalabs.com/p/oumi-ai-oumi/) — Synthetic Data
-- [imaNNeo/fl_chart](https://dataset.kymatalabs.com/p/imanneo-fl-chart/) — Versioning & Frameworks
 - [datajuicer/data-juicer](https://dataset.kymatalabs.com/p/datajuicer-data-juicer/) — Synthetic Data
+- [imaNNeo/fl_chart](https://dataset.kymatalabs.com/p/imanneo-fl-chart/) — Versioning & Frameworks
+- [liuruoze/EasyPR](https://dataset.kymatalabs.com/p/liuruoze-easypr/) — Versioning & Frameworks
 - [NVIDIA/DALI](https://dataset.kymatalabs.com/p/nvidia-dali/) — Augmentation
 - [treeverse/lakeFS](https://dataset.kymatalabs.com/p/treeverse-lakefs/) — Versioning & Frameworks
 - [argilla-io/argilla](https://dataset.kymatalabs.com/p/argilla-io-argilla/) — Labeling & Annotation
 - [tensorflow/datasets](https://dataset.kymatalabs.com/p/tensorflow-datasets/) — Collections & Hubs
-- [OpenCSGs/csghub](https://dataset.kymatalabs.com/p/opencsgs-csghub/) — Versioning & Frameworks
-- [lk-geimfari/mimesis](https://dataset.kymatalabs.com/p/lk-geimfari-mimesis/) — Synthetic Data
 - [torchgeo/torchgeo](https://dataset.kymatalabs.com/p/torchgeo-torchgeo/) — Versioning & Frameworks
+- [lk-geimfari/mimesis](https://dataset.kymatalabs.com/p/lk-geimfari-mimesis/) — Synthetic Data
+- [OpenCSGs/csghub](https://dataset.kymatalabs.com/p/opencsgs-csghub/) — Versioning & Frameworks
 - [sdv-dev/SDV](https://dataset.kymatalabs.com/p/sdv-dev-sdv/) — Synthetic Data
 - [argilla-io/distilabel](https://dataset.kymatalabs.com/p/argilla-io-distilabel/) — Synthetic Data
-- [WebBreacher/WhatsMyName](https://dataset.kymatalabs.com/p/webbreacher-whatsmyname/) — Versioning & Frameworks
 - [logpai/loghub](https://dataset.kymatalabs.com/p/logpai-loghub/) — Collections & Hubs
+- [WebBreacher/WhatsMyName](https://dataset.kymatalabs.com/p/webbreacher-whatsmyname/) — Versioning & Frameworks
 - [snorkel-team/snorkel](https://dataset.kymatalabs.com/p/snorkel-team-snorkel/) — Labeling & Annotation
 - [RUC-NLPIR/FlashRAG](https://dataset.kymatalabs.com/p/ruc-nlpir-flashrag/) — Augmentation
 - [TorchIO-project/torchio](https://dataset.kymatalabs.com/p/torchio-project-torchio/) — Augmentation
@@ -60,7 +61,6 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [AgaMiko/data-augmentation-review](https://dataset.kymatalabs.com/p/agamiko-data-augmentation-review/) — Augmentation
 - [sdv-dev/CTGAN](https://dataset.kymatalabs.com/p/sdv-dev-ctgan/) — Synthetic Data
 - [Renumics/spotlight](https://dataset.kymatalabs.com/p/renumics-spotlight/) — Versioning & Frameworks
-- [InternScience/GraphGen](https://dataset.kymatalabs.com/p/internscience-graphgen/) — Synthetic Data
 - [python-adaptive/adaptive](https://dataset.kymatalabs.com/p/python-adaptive-adaptive/) — Labeling & Annotation
 
 ## Unranked inclusion-review references
