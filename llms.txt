@@ -2,7 +2,7 @@
 
 > The Dataset Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-12T17:44:54.471839+00:00
+Snapshot collected: 2026-11-13T17:23:17.951327+00:00
 Current catalog records: 252
 
 ## Sources and interpretation
@@ -38,28 +38,28 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [NVIDIA/DALI](https://dataset.kymatalabs.com/p/nvidia-dali/) — Augmentation
 - [treeverse/lakeFS](https://dataset.kymatalabs.com/p/treeverse-lakefs/) — Versioning & Frameworks
 - [argilla-io/argilla](https://dataset.kymatalabs.com/p/argilla-io-argilla/) — Labeling & Annotation
+- [lk-geimfari/mimesis](https://dataset.kymatalabs.com/p/lk-geimfari-mimesis/) — Synthetic Data
 - [tensorflow/datasets](https://dataset.kymatalabs.com/p/tensorflow-datasets/) — Collections & Hubs
 - [torchgeo/torchgeo](https://dataset.kymatalabs.com/p/torchgeo-torchgeo/) — Versioning & Frameworks
-- [lk-geimfari/mimesis](https://dataset.kymatalabs.com/p/lk-geimfari-mimesis/) — Synthetic Data
 - [OpenCSGs/csghub](https://dataset.kymatalabs.com/p/opencsgs-csghub/) — Versioning & Frameworks
 - [sdv-dev/SDV](https://dataset.kymatalabs.com/p/sdv-dev-sdv/) — Synthetic Data
 - [argilla-io/distilabel](https://dataset.kymatalabs.com/p/argilla-io-distilabel/) — Synthetic Data
 - [logpai/loghub](https://dataset.kymatalabs.com/p/logpai-loghub/) — Collections & Hubs
 - [WebBreacher/WhatsMyName](https://dataset.kymatalabs.com/p/webbreacher-whatsmyname/) — Versioning & Frameworks
+- [TorchIO-project/torchio](https://dataset.kymatalabs.com/p/torchio-project-torchio/) — Augmentation
 - [snorkel-team/snorkel](https://dataset.kymatalabs.com/p/snorkel-team-snorkel/) — Labeling & Annotation
 - [RUC-NLPIR/FlashRAG](https://dataset.kymatalabs.com/p/ruc-nlpir-flashrag/) — Augmentation
-- [TorchIO-project/torchio](https://dataset.kymatalabs.com/p/torchio-project-torchio/) — Augmentation
 - [axoviq-ai/synthadoc](https://dataset.kymatalabs.com/p/axoviq-ai-synthadoc/) — Synthetic Data
 - [synthetichealth/synthea](https://dataset.kymatalabs.com/p/synthetichealth-synthea/) — Synthetic Data
 - [hitsz-ids/synthetic-data-generator](https://dataset.kymatalabs.com/p/hitsz-ids-synthetic-data-generator/) — Synthetic Data
 - [GreenmaskIO/greenmask](https://dataset.kymatalabs.com/p/greenmaskio-greenmask/) — Synthetic Data
-- [jtheoof/swappy](https://dataset.kymatalabs.com/p/jtheoof-swappy/) — Labeling & Annotation
 - [quiltdata/quilt](https://dataset.kymatalabs.com/p/quiltdata-quilt/) — Versioning & Frameworks
 - [yatengLG/ISAT_with_segment_anything](https://dataset.kymatalabs.com/p/yatenglg-isat-with-segment-anything/) — Labeling & Annotation
 - [425776024/nlpcda](https://dataset.kymatalabs.com/p/425776024-nlpcda/) — Augmentation
 - [bespokelabsai/curator](https://dataset.kymatalabs.com/p/bespokelabsai-curator/) — Synthetic Data
 - [AgaMiko/data-augmentation-review](https://dataset.kymatalabs.com/p/agamiko-data-augmentation-review/) — Augmentation
 - [sdv-dev/CTGAN](https://dataset.kymatalabs.com/p/sdv-dev-ctgan/) — Synthetic Data
+- [jtheoof/swappy](https://dataset.kymatalabs.com/p/jtheoof-swappy/) — Labeling & Annotation
 - [Renumics/spotlight](https://dataset.kymatalabs.com/p/renumics-spotlight/) — Versioning & Frameworks
 - [python-adaptive/adaptive](https://dataset.kymatalabs.com/p/python-adaptive-adaptive/) — Labeling & Annotation
 
@@ -89,3 +89,12 @@ Explore tools to create, label, curate and manage machine-learning data.
 
 - [Machine-readable capabilities, resources and dated coverage](https://dataset.kymatalabs.com/capabilities.json)
 - The capabilities document uses Kymata's descriptive format; it is not a standard agent tool protocol.
+
+## More from Kymata Labs
+Other products from the same publisher. They are not part of this index or its rankings.
+- [Keyspoken](https://keyspoken.com/): On-device dictation for iPhone
+- [Kymata Health](https://kymatahealth.com/): Evidence-based health guides and calculators
+- [CrowLingo](https://crowlingo.org/): American crow call atlas
+- [Verse Made Simple](https://www.versemadesimple.com/): Bible verses in three reading styles
+- [PercentEase](https://percentease.com/): Percentage calculator
+- [Enzo Adventures](https://enzoadventures.com/): Comic stories and coloring books
