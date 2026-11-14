@@ -2,7 +2,7 @@
 
 > The Dataset Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-13T17:23:17.951327+00:00
+Snapshot collected: 2026-11-14T16:07:03.345792+00:00
 Current catalog records: 252
 
 ## Sources and interpretation
@@ -32,8 +32,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [simonw/datasette](https://dataset.kymatalabs.com/p/simonw-datasette/) — Versioning & Frameworks
 - [voxel51/fiftyone](https://dataset.kymatalabs.com/p/voxel51-fiftyone/) — Versioning & Frameworks
 - [oumi-ai/oumi](https://dataset.kymatalabs.com/p/oumi-ai-oumi/) — Synthetic Data
-- [datajuicer/data-juicer](https://dataset.kymatalabs.com/p/datajuicer-data-juicer/) — Synthetic Data
 - [imaNNeo/fl_chart](https://dataset.kymatalabs.com/p/imanneo-fl-chart/) — Versioning & Frameworks
+- [datajuicer/data-juicer](https://dataset.kymatalabs.com/p/datajuicer-data-juicer/) — Synthetic Data
 - [liuruoze/EasyPR](https://dataset.kymatalabs.com/p/liuruoze-easypr/) — Versioning & Frameworks
 - [NVIDIA/DALI](https://dataset.kymatalabs.com/p/nvidia-dali/) — Augmentation
 - [treeverse/lakeFS](https://dataset.kymatalabs.com/p/treeverse-lakefs/) — Versioning & Frameworks
@@ -50,18 +50,18 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [snorkel-team/snorkel](https://dataset.kymatalabs.com/p/snorkel-team-snorkel/) — Labeling & Annotation
 - [RUC-NLPIR/FlashRAG](https://dataset.kymatalabs.com/p/ruc-nlpir-flashrag/) — Augmentation
 - [axoviq-ai/synthadoc](https://dataset.kymatalabs.com/p/axoviq-ai-synthadoc/) — Synthetic Data
-- [synthetichealth/synthea](https://dataset.kymatalabs.com/p/synthetichealth-synthea/) — Synthetic Data
 - [hitsz-ids/synthetic-data-generator](https://dataset.kymatalabs.com/p/hitsz-ids-synthetic-data-generator/) — Synthetic Data
 - [GreenmaskIO/greenmask](https://dataset.kymatalabs.com/p/greenmaskio-greenmask/) — Synthetic Data
+- [synthetichealth/synthea](https://dataset.kymatalabs.com/p/synthetichealth-synthea/) — Synthetic Data
 - [quiltdata/quilt](https://dataset.kymatalabs.com/p/quiltdata-quilt/) — Versioning & Frameworks
 - [yatengLG/ISAT_with_segment_anything](https://dataset.kymatalabs.com/p/yatenglg-isat-with-segment-anything/) — Labeling & Annotation
 - [425776024/nlpcda](https://dataset.kymatalabs.com/p/425776024-nlpcda/) — Augmentation
 - [bespokelabsai/curator](https://dataset.kymatalabs.com/p/bespokelabsai-curator/) — Synthetic Data
 - [AgaMiko/data-augmentation-review](https://dataset.kymatalabs.com/p/agamiko-data-augmentation-review/) — Augmentation
-- [sdv-dev/CTGAN](https://dataset.kymatalabs.com/p/sdv-dev-ctgan/) — Synthetic Data
 - [jtheoof/swappy](https://dataset.kymatalabs.com/p/jtheoof-swappy/) — Labeling & Annotation
 - [Renumics/spotlight](https://dataset.kymatalabs.com/p/renumics-spotlight/) — Versioning & Frameworks
 - [python-adaptive/adaptive](https://dataset.kymatalabs.com/p/python-adaptive-adaptive/) — Labeling & Annotation
+- [Oxen-AI/Oxen](https://dataset.kymatalabs.com/p/oxen-ai-oxen/) — Versioning & Frameworks
 
 ## Unranked inclusion-review references
 
