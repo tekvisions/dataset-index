@@ -2,8 +2,8 @@
 
 > The Dataset Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-17T18:45:18.408707+00:00
-Current catalog records: 253
+Snapshot collected: 2026-11-25T21:00:14.512772+00:00
+Current catalog records: 252
 
 ## Sources and interpretation
 
@@ -34,34 +34,34 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [oumi-ai/oumi](https://dataset.kymatalabs.com/p/oumi-ai-oumi/) — Synthetic Data
 - [datajuicer/data-juicer](https://dataset.kymatalabs.com/p/datajuicer-data-juicer/) — Synthetic Data
 - [imaNNeo/fl_chart](https://dataset.kymatalabs.com/p/imanneo-fl-chart/) — Versioning & Frameworks
-- [liuruoze/EasyPR](https://dataset.kymatalabs.com/p/liuruoze-easypr/) — Versioning & Frameworks
 - [NVIDIA/DALI](https://dataset.kymatalabs.com/p/nvidia-dali/) — Augmentation
 - [treeverse/lakeFS](https://dataset.kymatalabs.com/p/treeverse-lakefs/) — Versioning & Frameworks
 - [argilla-io/argilla](https://dataset.kymatalabs.com/p/argilla-io-argilla/) — Labeling & Annotation
+- [liuruoze/EasyPR](https://dataset.kymatalabs.com/p/liuruoze-easypr/) — Versioning & Frameworks
 - [lk-geimfari/mimesis](https://dataset.kymatalabs.com/p/lk-geimfari-mimesis/) — Synthetic Data
-- [tensorflow/datasets](https://dataset.kymatalabs.com/p/tensorflow-datasets/) — Collections & Hubs
 - [torchgeo/torchgeo](https://dataset.kymatalabs.com/p/torchgeo-torchgeo/) — Versioning & Frameworks
-- [OpenCSGs/csghub](https://dataset.kymatalabs.com/p/opencsgs-csghub/) — Versioning & Frameworks
 - [sdv-dev/SDV](https://dataset.kymatalabs.com/p/sdv-dev-sdv/) — Synthetic Data
+- [synthetichealth/synthea](https://dataset.kymatalabs.com/p/synthetichealth-synthea/) — Synthetic Data
+- [tensorflow/datasets](https://dataset.kymatalabs.com/p/tensorflow-datasets/) — Collections & Hubs
 - [argilla-io/distilabel](https://dataset.kymatalabs.com/p/argilla-io-distilabel/) — Synthetic Data
 - [logpai/loghub](https://dataset.kymatalabs.com/p/logpai-loghub/) — Collections & Hubs
-- [WebBreacher/WhatsMyName](https://dataset.kymatalabs.com/p/webbreacher-whatsmyname/) — Versioning & Frameworks
-- [hitsz-ids/synthetic-data-generator](https://dataset.kymatalabs.com/p/hitsz-ids-synthetic-data-generator/) — Synthetic Data
-- [TorchIO-project/torchio](https://dataset.kymatalabs.com/p/torchio-project-torchio/) — Augmentation
+- [OpenCSGs/csghub](https://dataset.kymatalabs.com/p/opencsgs-csghub/) — Versioning & Frameworks
 - [axoviq-ai/synthadoc](https://dataset.kymatalabs.com/p/axoviq-ai-synthadoc/) — Synthetic Data
+- [WebBreacher/WhatsMyName](https://dataset.kymatalabs.com/p/webbreacher-whatsmyname/) — Versioning & Frameworks
+- [TorchIO-project/torchio](https://dataset.kymatalabs.com/p/torchio-project-torchio/) — Augmentation
+- [hitsz-ids/synthetic-data-generator](https://dataset.kymatalabs.com/p/hitsz-ids-synthetic-data-generator/) — Synthetic Data
+- [yatengLG/ISAT_with_segment_anything](https://dataset.kymatalabs.com/p/yatenglg-isat-with-segment-anything/) — Labeling & Annotation
+- [GreenmaskIO/greenmask](https://dataset.kymatalabs.com/p/greenmaskio-greenmask/) — Synthetic Data
 - [snorkel-team/snorkel](https://dataset.kymatalabs.com/p/snorkel-team-snorkel/) — Labeling & Annotation
 - [RUC-NLPIR/FlashRAG](https://dataset.kymatalabs.com/p/ruc-nlpir-flashrag/) — Augmentation
-- [GreenmaskIO/greenmask](https://dataset.kymatalabs.com/p/greenmaskio-greenmask/) — Synthetic Data
-- [synthetichealth/synthea](https://dataset.kymatalabs.com/p/synthetichealth-synthea/) — Synthetic Data
-- [sdv-dev/CTGAN](https://dataset.kymatalabs.com/p/sdv-dev-ctgan/) — Synthetic Data
+- [DataArcTech/DataArc-SynData-Toolkit](https://dataset.kymatalabs.com/p/dataarctech-dataarc-syndata-toolkit/) — Synthetic Data
 - [quiltdata/quilt](https://dataset.kymatalabs.com/p/quiltdata-quilt/) — Versioning & Frameworks
-- [jtheoof/swappy](https://dataset.kymatalabs.com/p/jtheoof-swappy/) — Labeling & Annotation
-- [Renumics/spotlight](https://dataset.kymatalabs.com/p/renumics-spotlight/) — Versioning & Frameworks
+- [sdv-dev/CTGAN](https://dataset.kymatalabs.com/p/sdv-dev-ctgan/) — Synthetic Data
+- [InternScience/GraphGen](https://dataset.kymatalabs.com/p/internscience-graphgen/) — Synthetic Data
 - [python-adaptive/adaptive](https://dataset.kymatalabs.com/p/python-adaptive-adaptive/) — Labeling & Annotation
 - [Oxen-AI/Oxen](https://dataset.kymatalabs.com/p/oxen-ai-oxen/) — Versioning & Frameworks
-- [chaw1/datakeel](https://dataset.kymatalabs.com/p/chaw1-datakeel/) — Labeling & Annotation
-- [yatengLG/ISAT_with_segment_anything](https://dataset.kymatalabs.com/p/yatenglg-isat-with-segment-anything/) — Labeling & Annotation
-- [425776024/nlpcda](https://dataset.kymatalabs.com/p/425776024-nlpcda/) — Augmentation
+- [Renumics/spotlight](https://dataset.kymatalabs.com/p/renumics-spotlight/) — Versioning & Frameworks
+- [asreview/asreview](https://dataset.kymatalabs.com/p/asreview-asreview/) — Labeling & Annotation
 
 ## Unranked inclusion-review references
 
