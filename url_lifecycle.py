@@ -32,6 +32,7 @@ def urls(root):
 def render_retained(root=ROOT):
     root = Path(root)
     rules = policy(root)
+    site_name = rules.get('site_name', 'The Dataset Index')
     data = json.loads((root / 'data.json').read_text(encoding='utf-8'))
     current = {row['slug'] for row in data.get('items', [])}
     xml_path = root / 'sitemap.xml'
@@ -59,11 +60,11 @@ def render_retained(root=ROOT):
                   'description': description}
         sources = ''.join('<li><a href="' + esc(s['url']) + '">' + esc(s['title']) + '</a></li>' for s in entry['primary_sources'])
         body = (f'<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
-                f'<title>{esc(entry["entity"])} — retained reference | The Diffusion Index</title>'
+                f'<title>{esc(entry["entity"])} — retained reference | {esc(site_name)}</title>'
                 f'<meta name="description" content="{esc(description)}"><link rel="canonical" href="{canonical}">'
                 '<link rel="stylesheet" href="/style.css"><link rel="icon" href="/favicon.svg">'
                 f'<script type="application/ld+json">{html_json.dumps(schema, ensure_ascii=False)}</script></head>'
-                '<body><main class="wrap detail"><p><a href="/">The Diffusion Index</a> · <a href="/#catalog-guidance">Selection guide</a></p>'
+                f'<body><main class="wrap detail"><p><a href="/">{esc(site_name)}</a> · <a href="/#catalog-guidance">Selection guide</a></p>'
                 f'<h1>{esc(entry["entity"])}</h1><p><strong>Retained reference — outside the current ranked discovery snapshot.</strong></p>'
                 f'<p>{esc(description)}</p><h2>When to use this reference</h2><p>{esc(entry["selection_context"])}</p>'
                 '<h2>What the status means</h2><p>This URL was already published and is kept for its documented subject. '
