@@ -45,10 +45,10 @@
   <url><loc>https://dataset.kymatalabs.com/p/bespokelabsai-curator/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/agamiko-data-augmentation-review/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/jtheoof-swappy/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/dmytrovasin-drawpen/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/project-monai-monailabel/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/dokieli-dokieli/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/nolabs-ai-deepfabric/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/dmytrovasin-drawpen/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/expressive-code-expressive-code/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/annotorious-annotorious/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/eclipse-inception-inception/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -216,8 +216,8 @@
   <url><loc>https://dataset.kymatalabs.com/p/phurwicz-hover/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/syncora-ai-uk-retail-synthetic-data-generation/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/splitgraph-sgr/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://dataset.kymatalabs.com/p/debidatta-syndata-generation/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/chenzifan1995-gnn-credit-fraud-networks/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dataset.kymatalabs.com/p/debidatta-syndata-generation/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/anssi-fr-secuml/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/gair-nlp-prox/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dataset.kymatalabs.com/p/label-sleuth-label-sleuth/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>

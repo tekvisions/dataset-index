@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:00:14.512772+00:00",
+ "generated_at": "2026-11-25T22:04:21.061749+00:00",
  "count": 252,
  "categories": [
   {
@@ -76,12 +76,12 @@
    "url": "https://github.com/dolthub/dolt",
    "owner": "dolthub",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42156961?v=4",
-   "stars": 24981,
+   "stars": 24983,
    "forks": 926,
    "open_issues": 682,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T20:17:04Z",
+   "pushed_at": "2026-11-25T21:45:46Z",
    "created_at": "2019-07-24T17:46:25Z",
    "description": "Dolt – Git for Data",
    "topics": [
@@ -155,7 +155,7 @@
    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
    "owner": "stefan-jansen",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4275885?v=4",
-   "stars": 22052,
+   "stars": 22053,
    "forks": 5819,
    "open_issues": 4,
    "language": "Jupyter Notebook",
@@ -365,10 +365,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/167452922?v=4",
    "stars": 9442,
    "forks": 800,
-   "open_issues": 33,
+   "open_issues": 34,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-11-25T20:27:34Z",
+   "pushed_at": "2026-11-25T21:45:21Z",
    "created_at": "2024-05-07T17:45:15Z",
    "description": "Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!",
    "topics": [
@@ -699,8 +699,8 @@
    "owner": "sdv-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59050321?v=4",
    "stars": 3609,
-   "forks": 431,
-   "open_issues": 150,
+   "forks": 430,
+   "open_issues": 151,
    "language": "Python",
    "license": "NOASSERTION",
    "pushed_at": "2026-11-25T17:43:22Z",
@@ -1494,34 +1494,6 @@
    "rank": 44
   },
   {
-   "name": "DrawPen",
-   "full_name": "DmytroVasin/DrawPen",
-   "slug": "dmytrovasin-drawpen",
-   "url": "https://github.com/DmytroVasin/DrawPen",
-   "owner": "DmytroVasin",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/1914001?v=4",
-   "stars": 1089,
-   "forks": 90,
-   "open_issues": 21,
-   "language": "JavaScript",
-   "license": "MIT",
-   "pushed_at": "2026-11-14T20:25:15Z",
-   "created_at": "2024-05-19T07:01:42Z",
-   "description": "DrawPen is a simple screen annotation. Available on macOS, Windows & Linux.",
-   "topics": [
-    "annotation",
-    "annotation-tool",
-    "canvas",
-    "electron",
-    "macos",
-    "presentation",
-    "screen-annotation"
-   ],
-   "category": "Labeling & Annotation",
-   "momentum": 68,
-   "rank": 45
-  },
-  {
    "name": "MONAILabel",
    "full_name": "Project-MONAI/MONAILabel",
    "slug": "project-monai-monailabel",
@@ -1549,7 +1521,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 68,
-   "rank": 46
+   "rank": 45
   },
   {
    "name": "dokieli",
@@ -1589,7 +1561,7 @@
    ],
    "category": "Labeling & Annotation",
    "momentum": 68,
-   "rank": 47
+   "rank": 46
   },
   {
    "name": "deepfabric",
@@ -1627,6 +1599,34 @@
    ],
    "category": "Synthetic Data",
    "momentum": 68,
+   "rank": 47
+  },
+  {
+   "name": "DrawPen",
+   "full_name": "DmytroVasin/DrawPen",
+   "slug": "dmytrovasin-drawpen",
+   "url": "https://github.com/DmytroVasin/DrawPen",
+   "owner": "DmytroVasin",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1914001?v=4",
+   "stars": 1089,
+   "forks": 90,
+   "open_issues": 21,
+   "language": "JavaScript",
+   "license": "MIT",
+   "pushed_at": "2026-11-14T20:25:15Z",
+   "created_at": "2024-05-19T07:01:42Z",
+   "description": "DrawPen is a simple screen annotation. Available on macOS, Windows & Linux.",
+   "topics": [
+    "annotation",
+    "annotation-tool",
+    "canvas",
+    "electron",
+    "macos",
+    "presentation",
+    "screen-annotation"
+   ],
+   "category": "Labeling & Annotation",
+   "momentum": 67,
    "rank": 48
   },
   {
@@ -2030,7 +2030,7 @@
    "url": "https://github.com/sutro-sh/jev-align",
    "owner": "sutro-sh",
    "owner_avatar": "https://avatars.githubusercontent.com/u/230064936?v=4",
-   "stars": 324,
+   "stars": 323,
    "forks": 26,
    "open_issues": 1,
    "language": "Python",
@@ -2208,8 +2208,8 @@
    "url": "https://github.com/hasaneyldrm/exercises-dataset",
    "owner": "hasaneyldrm",
    "owner_avatar": "https://avatars.githubusercontent.com/u/28005450?v=4",
-   "stars": 24028,
-   "forks": 3094,
+   "stars": 24030,
+   "forks": 3095,
    "open_issues": 52,
    "language": "HTML",
    "license": "NOASSERTION",
@@ -6812,6 +6812,26 @@
    "rank": 215
   },
   {
+   "name": "gnn-credit-fraud-networks",
+   "full_name": "chenzifan1995/gnn-credit-fraud-networks",
+   "slug": "chenzifan1995-gnn-credit-fraud-networks",
+   "url": "https://github.com/chenzifan1995/gnn-credit-fraud-networks",
+   "owner": "chenzifan1995",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/32641448?v=4",
+   "stars": 303,
+   "forks": 5,
+   "open_issues": 2,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2025-10-22T21:15:42Z",
+   "created_at": "2025-10-22T21:14:23Z",
+   "description": "A comprehensive research and engineering framework demonstrating how GNNs can model credit risk and detect fraud in complex financial networks. It includes synthetic data generation, PyTorch Geometric models (GraphSAGE, GAT), training pipelines with PyTorch Lightning, and full CI/testing infrastructure for reproducible AI-finance experiments.",
+   "topics": [],
+   "category": "Synthetic Data",
+   "momentum": 31,
+   "rank": 216
+  },
+  {
    "name": "syndata-generation",
    "full_name": "debidatta/syndata-generation",
    "slug": "debidatta-syndata-generation",
@@ -6834,26 +6854,6 @@
     "synthetic-data"
    ],
    "category": "Labeling & Annotation",
-   "momentum": 31,
-   "rank": 216
-  },
-  {
-   "name": "gnn-credit-fraud-networks",
-   "full_name": "chenzifan1995/gnn-credit-fraud-networks",
-   "slug": "chenzifan1995-gnn-credit-fraud-networks",
-   "url": "https://github.com/chenzifan1995/gnn-credit-fraud-networks",
-   "owner": "chenzifan1995",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/32641448?v=4",
-   "stars": 298,
-   "forks": 5,
-   "open_issues": 2,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2025-10-22T21:15:42Z",
-   "created_at": "2025-10-22T21:14:23Z",
-   "description": "A comprehensive research and engineering framework demonstrating how GNNs can model credit risk and detect fraud in complex financial networks. It includes synthetic data generation, PyTorch Geometric models (GraphSAGE, GAT), training pipelines with PyTorch Lightning, and full CI/testing infrastructure for reproducible AI-finance experiments.",
-   "topics": [],
-   "category": "Synthetic Data",
    "momentum": 31,
    "rank": 217
   },

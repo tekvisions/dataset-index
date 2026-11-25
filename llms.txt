@@ -2,7 +2,7 @@
 
 > The Dataset Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-25T21:00:14.512772+00:00
+Snapshot collected: 2026-11-25T22:04:21.061749+00:00
 Current catalog records: 252
 
 ## Sources and interpretation
